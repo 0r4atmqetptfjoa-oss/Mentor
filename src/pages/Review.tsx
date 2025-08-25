@@ -10,7 +10,7 @@ export default function Review() {
   const [summaries, setSummaries] = useState<z.infer<typeof summarySchema>[] | null>(null);
 
   useEffect(() => {
-    loadJson('/db/rezumate_materie.json', z.array(summarySchema), []).then(setSummaries);
+    loadJson('/data/rezumate_materie.json', z.array(summarySchema), []).then(setSummaries);
   }, []);
 
   return (
