@@ -22,24 +22,11 @@ export default defineConfig({
           { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
           { src: 'pwa-512x512.png', sizes: '512x512', type: 'image/png' },
           { src: 'pwa-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
-        ]
-      },
-      workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
-        additionalManifestEntries: [
-          '/db/questions_engleza.json',
-          '/db/questions_intendenta.json',
-          '/db/questions_psihologic.json',
-          '/db/rezumate_materie.json'
         ],
-        runtimeCaching: [
-          {
-            urlPattern: ({ url }) => url.pathname.startsWith('/db/'),
-            handler: 'StaleWhileRevalidate',
-            options: {
-              cacheName: 'db-cache'
-            }
-          }
+        shortcuts: [
+          { name: 'Quiz rapid', short_name: 'Quiz 10', url: '/teste?mode=rapid&n=10', icons: [{ src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png' }] },
+          { name: 'Greșeli', url: '/review-greseli', icons: [{ src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png' }] },
+          { name: 'Misiuni', url: '/misiuni', icons: [{ src: '/pwa-192x192.png', sizes: '192x192', type: 'image/png' }] }
         ]
       }
     })

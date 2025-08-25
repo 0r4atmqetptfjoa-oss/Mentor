@@ -10,6 +10,8 @@ import { enablePWA } from './pwa';
 const Home = lazy(() => import('./pages/Home'));
 const Quiz = lazy(() => import('./pages/Quiz'));
 const Review = lazy(() => import('./pages/Review'));
+const ReviewMistakes = lazy(() => import('./pages/ReviewMistakes'));
+const Missions = lazy(() => import('./pages/Missions'));
 
 enablePWA();
 
@@ -23,6 +25,8 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
             <Route path="/" element={<Home />} />
             <Route path="/quiz" element={<Quiz />} />
             <Route path="/review" element={<Review />} />
+            <Route path="/review-greseli" element={<ReviewMistakes />} />
+            <Route path="/misiuni" element={<Missions />} />
           </Routes>
         </Suspense>
       </BrowserRouter>

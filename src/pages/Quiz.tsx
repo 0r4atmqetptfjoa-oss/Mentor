@@ -10,7 +10,7 @@ export default function Quiz() {
   const [questions, setQuestions] = useState<z.infer<typeof questionArray> | null>(null);
 
   useEffect(() => {
-    loadJson('/db/questions_engleza.json', questionArray, []).then(setQuestions);
+    loadJson('/data/questions_engleza.json', questionArray, []).then(setQuestions);
   }, []);
 
   return (
