@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "categorie": "psihologic",
+    "intrebare": "Cât fac 2 + 2?",
+    "variante": ["3", "4", "5", "6"],
+    "raspunsCorect": "4"
+  }
+]

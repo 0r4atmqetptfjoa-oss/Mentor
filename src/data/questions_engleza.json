@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "categorie": "engleza",
+    "intrebare": "Translate 'cat'.",
+    "variante": ["dog", "cat", "mouse", "bird"],
+    "raspunsCorect": "cat"
+  }
+]
