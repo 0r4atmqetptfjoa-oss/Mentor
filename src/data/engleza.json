@@ -1,0 +1,487 @@
+[
+  {
+    "id": 501,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "Choose the word that best completes the sentence: The soldier had to ______ his orders without question.",
+    "variante": ["decline", "obey", "discuss", "ignore"],
+    "raspunsCorect": "obey",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 502,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "Which sentence is grammatically correct?",
+    "variante": [
+      "He have gone to the briefing.",
+      "She will be arrive tomorrow.",
+      "They are listening to the commander.",
+      "I is ready for the mission."
+    ],
+    "raspunsCorect": "They are listening to the commander.",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 503,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The word 'essential' is closest in meaning to:",
+    "variante": ["optional", "unimportant", "crucial", "additional"],
+    "raspunsCorect": "crucial",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 504,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "If the team ______ harder, they would have succeeded.",
+    "variante": ["has trained", "had trained", "was training", "trains"],
+    "raspunsCorect": "had trained",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 505,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The troops were ordered to ______ from the dangerous area.",
+    "variante": ["advance", "withdraw", "attack", "settle"],
+    "raspunsCorect": "withdraw",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 506,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The equipment must be checked ______ before every mission.",
+    "variante": ["thorough", "thoroughly", "thoughtful", "though"],
+    "raspunsCorect": "thoroughly",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 507,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The opposite of 'bravery' is:",
+    "variante": ["courage", "strength", "honor", "cowardice"],
+    "raspunsCorect": "cowardice",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 508,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The report ______ by the captain yesterday.",
+    "variante": ["was written", "is written", "will be written", "has been written"],
+    "raspunsCorect": "was written",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 509,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'conceal' means to:",
+    "variante": ["reveal", "show", "hide", "explain"],
+    "raspunsCorect": "hide",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 510,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "You must report to the command center as soon as you ______.",
+    "variante": ["will arrive", "arrived", "are arriving", "arrive"],
+    "raspunsCorect": "arrive",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 511,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'regulation' is a:",
+    "variante": ["suggestion", "rule", "question", "story"],
+    "raspunsCorect": "rule",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 512,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "There isn't ______ information available on this topic.",
+    "variante": ["many", "much", "a lot", "few"],
+    "raspunsCorect": "much",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 513,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'accomplish' a mission means to:",
+    "variante": ["start it", "cancel it", "successfully complete it", "plan it"],
+    "raspunsCorect": "successfully complete it",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 514,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The officer is responsible ______ the safety of his team.",
+    "variante": ["for", "at", "with", "about"],
+    "raspunsCorect": "for",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 515,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The terrain was extremely 'rugged'. 'Rugged' means:",
+    "variante": ["flat and smooth", "wet and muddy", "uneven and difficult to cross", "covered in trees"],
+    "raspunsCorect": "uneven and difficult to cross",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 516,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "He has been a soldier ______ ten years.",
+    "variante": ["since", "for", "ago", "in"],
+    "raspunsCorect": "for",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 517,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'briefing' is a meeting to give ______.",
+    "variante": ["orders", "punishments", "medals", "information or instructions"],
+    "raspunsCorect": "information or instructions",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 518,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "You ______ show your ID card to enter the base.",
+    "variante": ["can", "should", "must", "might"],
+    "raspunsCorect": "must",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 519,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The enemy's position was 'vulnerable'. 'Vulnerable' means:",
+    "variante": ["well-defended", "hidden", "easy to attack", "on high ground"],
+    "raspunsCorect": "easy to attack",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 520,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "I wish I ______ the answer to that question.",
+    "variante": ["know", "knew", "have known", "will know"],
+    "raspunsCorect": "knew",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 521,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The supply convoy arrived at its ______ on time.",
+    "variante": ["destination", "origin", "delay", "route"],
+    "raspunsCorect": "destination",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 522,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The patrol ______ the area when they encountered the obstacle.",
+    "variante": ["was scouting", "scouted", "has scouted", "is scouting"],
+    "raspunsCorect": "was scouting",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 523,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'adhere' to the rules means to:",
+    "variante": ["break them", "ignore them", "stick to them", "change them"],
+    "raspunsCorect": "stick to them",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 524,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "This is the soldier ______ rescued the civilians.",
+    "variante": ["which", "who", "what", "whose"],
+    "raspunsCorect": "who",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 525,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The situation required 'immediate' action. 'Immediate' means:",
+    "variante": ["delayed", "later", "planned", "instant"],
+    "raspunsCorect": "instant",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 526,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "Neither the commander ______ the lieutenant was available.",
+    "variante": ["or", "nor", "and", "but"],
+    "raspunsCorect": "nor",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 527,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The equipment is 'obsolete'. This means it is:",
+    "variante": ["brand new", "out of date", "very effective", "under repair"],
+    "raspunsCorect": "out of date",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 528,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The mission was ______ difficult than we had anticipated.",
+    "variante": ["more", "most", "much", "as"],
+    "raspunsCorect": "more",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 529,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'casualty' in a military context refers to a person who is:",
+    "variante": ["very relaxed", "not on duty", "killed, injured, or captured", "a civilian"],
+    "raspunsCorect": "killed, injured, or captured",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 530,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "By the time the reinforcements arrive, the battle ______.",
+    "variante": ["will end", "ended", "will have ended", "is ending"],
+    "raspunsCorect": "will have ended",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 531,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'reconnaissance' mission is for ______ information.",
+    "variante": ["hiding", "gathering", "deleting", "selling"],
+    "raspunsCorect": "gathering",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 532,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The commander ordered his troops ______ the bridge.",
+    "variante": ["to secure", "securing", "secure", "for securing"],
+    "raspunsCorect": "to secure",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 533,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'ambush' an enemy means to:",
+    "variante": ["make a surprise attack from a hidden position", "negotiate a truce", "offer medical aid", "follow from a safe distance"],
+    "raspunsCorect": "make a surprise attack from a hidden position",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 534,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "______ you study the regulations, ______ you will perform.",
+    "variante": ["The more / the better", "More / better", "The most / the best", "Much / good"],
+    "raspunsCorect": "The more / the better",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 535,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "'Ammunition' refers to:",
+    "variante": ["food supplies", "medical kits", "fuel for vehicles", "bullets, shells, and other projectiles"],
+    "raspunsCorect": "bullets, shells, and other projectiles",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 536,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The soldiers ______ on duty for 12 hours before they were relieved.",
+    "variante": ["had been", "have been", "are", "will be"],
+    "raspunsCorect": "had been",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 537,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "What is the primary role of 'logistics'?",
+    "variante": ["Front-line combat", "Espionage and intelligence", "The organization and movement of troops and equipment", "Diplomatic relations"],
+    "raspunsCorect": "The organization and movement of troops and equipment",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 538,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The officer, ______ reputation was excellent, received a promotion.",
+    "variante": ["who", "which", "whom", "whose"],
+    "raspunsCorect": "whose",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 539,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'fortify' a position means to:",
+    "variante": ["abandon it", "strengthen it against attack", "photograph it", "report it"],
+    "raspunsCorect": "strengthen it against attack",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 540,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "This weapon is ______ to the previous model.",
+    "variante": ["more superior", "superior", "superiorer", "most superior"],
+    "raspunsCorect": "superior",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 541,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'ceasefire' is an agreement to:",
+    "variante": ["start fighting", "exchange prisoners", "stop fighting", "surrender"],
+    "raspunsCorect": "stop fighting",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 542,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "Not only ______ the radio, but he also forgot the map.",
+    "variante": ["he did lose", "did he lose", "he lost", "lost he"],
+    "raspunsCorect": "did he lose",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 543,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "What does 'classified' information mean?",
+    "variante": ["Available to everyone", "Easy to understand", "Officially secret", "Out of date"],
+    "raspunsCorect": "Officially secret",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 544,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The general is said ______ a brilliant strategist.",
+    "variante": ["being", "be", "to have been", "to be"],
+    "raspunsCorect": "to be",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 545,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "'Surveillance' is the close ______ of a person or place.",
+    "variante": ["observation", "attack", "abandonment", "supply"],
+    "raspunsCorect": "observation",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 546,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The supplies ______ to the forward operating base tomorrow morning.",
+    "variante": ["are delivered", "have been delivered", "will be delivered", "were delivered"],
+    "raspunsCorect": "will be delivered",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 547,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'contingent' is a ______ of troops.",
+    "variante": ["large army", "retired veteran", "single soldier", "group"],
+    "raspunsCorect": "group",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 548,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The situation is ______ serious, we need to act now.",
+    "variante": ["extreme", "extremes", "extremely", "extremist"],
+    "raspunsCorect": "extremely",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 549,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'escalate' a conflict means to:",
+    "variante": ["end it", "make it more intense or serious", "report it", "ignore it"],
+    "raspunsCorect": "make it more intense or serious",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 550,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "He couldn't find his rifle ______.",
+    "variante": ["nowhere", "anywhere", "somewhere", "everywhere"],
+    "raspunsCorect": "anywhere",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 551,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "The 'chain of command' is the line of ______.",
+    "variante": ["supply", "communication", "authority", "defense"],
+    "raspunsCorect": "authority",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 552,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "I would rather you ______ that topic during the briefing.",
+    "variante": ["not to mention", "don't mention", "didn't mention", "won't mention"],
+    "raspunsCorect": "didn't mention",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 553,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'skirmish' is a:",
+    "variante": ["major battle", "peace treaty", "small, short fight", "long siege"],
+    "raspunsCorect": "small, short fight",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 554,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "Hardly ______ the mission when he was assigned a new one.",
+    "variante": ["had he finished", "he had finished", "did he finish", "he finished"],
+    "raspunsCorect": "had he finished",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 555,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "To 'comply with' an order means to:",
+    "variante": ["act against it", "act in accordance with it", "analyze it", "postpone it"],
+    "raspunsCorect": "act in accordance with it",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 556,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "Each of the soldiers ______ given their assignment.",
+    "variante": ["have been", "are", "were", "has been"],
+    "raspunsCorect": "has been",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 557,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "'Fatigue' in a military context often refers to:",
+    "variante": ["a type of uniform", "extreme tiredness", "a special kind of weapon", "a combat formation"],
+    "raspunsCorect": "extreme tiredness",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 558,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "He is not used to ______ in such harsh conditions.",
+    "variante": ["work", "working", "have worked", "be working"],
+    "raspunsCorect": "working",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 559,
+    "categorie": "Engleză - Vocabular",
+    "intrebare": "A 'barracks' is a building used to ______ soldiers.",
+    "variante": ["train", "house", "transport", "promote"],
+    "raspunsCorect": "house",
+    "sursa": "Grammar & Vocabulary"
+  },
+  {
+    "id": 560,
+    "categorie": "Engleză - Gramatică",
+    "intrebare": "The commander insisted that the report ______ finished by noon.",
+    "variante": ["is", "was", "be", "will be"],
+    "raspunsCorect": "be",
+    "sursa": "Grammar & Vocabulary"
+  }
+]
