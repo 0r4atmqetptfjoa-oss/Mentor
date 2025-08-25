@@ -8,35 +8,33 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
+      includeAssets: ['favicon.svg', 'apple-touch-icon.svg', 'maskable-icon.svg'],
       manifest: {
-        name: 'Mentor Ana',
-        short_name: 'MentorAna',
-        description: 'Platformă de pregătire pentru examenul de ofițeri.',
-        theme_color: '#1A202C',
-        background_color: '#1A202C',
-        display: 'standalone',
-        scope: '/',
+        name: 'Mentor',
+        short_name: 'Mentor',
         start_url: '/',
+        display: 'standalone',
+        background_color: '#0b1020',
+        theme_color: '#0b1020',
         icons: [
           {
-            src: 'pwa-192x192.png',
+            src: '/pwa-192.svg',
             sizes: '192x192',
-            type: 'image/png'
+            type: 'image/svg+xml',
           },
           {
-            src: 'pwa-512x512.png',
+            src: '/pwa-512.svg',
             sizes: '512x512',
-            type: 'image/png'
+            type: 'image/svg+xml',
           },
           {
-            src: 'pwa-512x512.png',
+            src: '/maskable-512.svg',
             sizes: '512x512',
-            type: 'image/png',
-            purpose: 'any maskable'
-          }
-        ]
-      }
+            type: 'image/svg+xml',
+            purpose: 'maskable',
+          },
+        ],
+      },
     })
   ],
 })

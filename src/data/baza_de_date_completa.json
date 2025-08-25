@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "categorie": "demo",
+    "intrebare": "Întrebare demo?",
+    "variante": ["A", "B", "C", "D"],
+    "raspunsCorect": "A"
+  }
+]

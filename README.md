@@ -1,12 +1,45 @@
-# React + Vite
+# Mentor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Platformă de pregătire construită cu [Vite](https://vitejs.dev) și React.
 
-Currently, two official plugins are available:
+## Rulare
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+Pentru build de producție:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run build
+```
+
+## Surse de date
+
+Fișierele JSON se află în `public/data`. Poți înlocui oricare dintre ele sau schimba locația lor din aplicație folosind registrul de surse expus în `src/data/loader.ts`.
+Schema unei întrebări este validată cu [Zod](https://zod.dev) și arată astfel:
+
+```ts
+{
+  id: number;
+  categorie: string;
+  intrebare: string;
+  variante: string[];
+  raspunsCorect: string;
+  sursa?: string;
+}
+```
+
+## Cheia GEMINI_API_KEY
+
+Pentru funcționalități AI opționale setează variabila de mediu `GEMINI_API_KEY` înainte de rularea serverului.
+
+## Icon-uri PWA
+
+Icon-urile PWA se află în `public/`. Poți genera altele noi cu instrumente precum [pwa-asset-generator](https://github.com/electerious/pwa-asset-generator).
+
+## Shortcut-uri de tastatură
+
+- **N** – întrebare următoare
+- **R** – revizuiește răspunsurile greșite

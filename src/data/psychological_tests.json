@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "categorie": "psihologic",
+    "intrebare": "Test psihologic demo?",
+    "variante": ["A", "B", "C", "D"],
+    "raspunsCorect": "B"
+  }
+]
