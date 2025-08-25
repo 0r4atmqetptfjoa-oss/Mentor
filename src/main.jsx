@@ -1,25 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { BrowserRouter } from 'react-router-dom';
-import App from './App.jsx';
-import './index.css';
-import { Toaster } from 'react-hot-toast';
+import React, { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import { BrowserRouter } from 'react-router-dom'
+import { registerSW } from 'virtual:pwa-register'
+import App from './App.jsx'
+import './index.css'
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+registerSW({ immediate: true })
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
     <BrowserRouter>
-      <Toaster 
-        position="bottom-center"
-        toastOptions={{
-          duration: 2000,
-          style: {
-            background: '#2D3748',
-            color: '#E2E8F0',
-            border: '1px solid #4A5568'
-          },
-        }}
-      />
       <App />
     </BrowserRouter>
-  </React.StrictMode>,
-);
+  </StrictMode>
+)
