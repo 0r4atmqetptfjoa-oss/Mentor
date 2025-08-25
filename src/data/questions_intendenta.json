@@ -1,0 +1,3447 @@
+[
+  {
+    "id": 1,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Care dintre următoarele NU este un aspect al operațiilor militare de care se ocupă logistica?",
+    "variante": [
+      "Planificarea strategică a atacului",
+      "Transportul de personal",
+      "Achiziția și construcția de clădiri",
+      "Asigurarea sprijinului medical"
+    ],
+    "raspunsCorect": "Planificarea strategică a atacului",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 1, alin. (1)"
+  },
+  {
+    "id": 2,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Ce presupune principiul logisticii denumit 'economia'?",
+    "variante": [
+      "Utilizarea doar a resurselor cele mai ieftine",
+      "Optimizarea sprijinului logistic pentru cheltuieli minime în ordinea priorităților",
+      "Cheltuirea rapidă a bugetului alocat",
+      "Minimizarea numărului de personal logistic"
+    ],
+    "raspunsCorect": "Optimizarea sprijinului logistic pentru cheltuieli minime în ordinea priorităților",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. g)"
+  },
+  {
+    "id": 3,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Ce reprezintă 'stocul trupelor' conform Art. 29 din regulament?",
+    "variante": [
+      "Rezervele strategice ale țării",
+      "Bunurile din depozitele centrale",
+      "Cantitatea de materiale necesară pentru 7 zile de luptă, existentă la luptător, vehicul etc.",
+      "Stocul necesar pentru 30 de zile de campanie"
+    ],
+    "raspunsCorect": "Cantitatea de materiale necesară pentru 7 zile de luptă, existentă la luptător, vehicul etc.",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 29, alin. (3)"
+  },
+  {
+    "id": 4,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Ce clasă de materiale, conform Art. 31, include munițiile, rachetele și explozivii?",
+    "variante": [
+      "Clasa I (Subzistență)",
+      "Clasa a III-a (Carburanți)",
+      "Clasa a IV-a (Construcții)",
+      "Clasa a V-a"
+    ],
+    "raspunsCorect": "Clasa a V-a",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 31, lit. e)"
+  },
+  {
+    "id": 5,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Care este diferența principală între logistica de producție și cea de consum?",
+    "variante": [
+      "Una se ocupă de armament, cealaltă de hrană",
+      "Producția se referă la achiziții, iar consumul la utilizarea și mentenanța bunurilor la trupe",
+      "Sunt termeni sinonimi, fără diferențe practice",
+      "Producția este pe timp de pace, consumul la război"
+    ],
+    "raspunsCorect": "Producția se referă la achiziții, iar consumul la utilizarea și mentenanța bunurilor la trupe",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 2 și 3"
+  },
+  {
+    "id": 6,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Principiul 'responsabilității' în logistică presupune:",
+    "variante": [
+      "Responsabilitatea exclusivă a comandantului",
+      "Luarea măsurilor pentru asigurarea suportului logistic ordonat la locul și timpul potrivit",
+      "Delegarea responsabilității către eșaloanele inferioare",
+      "Răspunderea materială a gestionarilor"
+    ],
+    "raspunsCorect": "Luarea măsurilor pentru asigurarea suportului logistic ordonat la locul și timpul potrivit",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. a)"
+  },
+  {
+    "id": 7,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Ce procedeu de reaprovizionare este cunoscut ca sistemul 'tragere/pull'?",
+    "variante": [
+      "Trimiterea planificată a resurselor",
+      "Reaprovizionarea prin achiziții locale",
+      "Reaprovizionarea pe bază de cereri ale beneficiarilor",
+      "Distribuția automată bazată pe consumul estimat"
+    ],
+    "raspunsCorect": "Reaprovizionarea pe bază de cereri ale beneficiarilor",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 23, alin. (2), lit. b)"
+  },
+  {
+    "id": 8,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "În ce condiții se consumă partea 'intangibilă' a stocului de materiale?",
+    "variante": [
+      "Doar cu aprobarea directă a Ministrului Apărării",
+      "Niciodată, fiind o rezervă de stat",
+      "Cu aprobarea eșalonului superior sau, în situații excepționale, a comandantului unității",
+      "La libera decizie a gestionarului de depozit"
+    ],
+    "raspunsCorect": "Cu aprobarea eșalonului superior sau, în situații excepționale, a comandantului unității",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 32, alin. (2)"
+  },
+  {
+    "id": 9,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Ce include Clasa I de materiale?",
+    "variante": [
+      "Armament și echipament individual",
+      "Muniții de infanterie",
+      "Carburanți pentru vehicule blindate",
+      "Elemente de subzistență, precum hrană și apă"
+    ],
+    "raspunsCorect": "Elemente de subzistență, precum hrană și apă",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 31, lit. a)"
+  },
+  {
+    "id": 10,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Ce reprezintă 'Sprijinul logistic'?",
+    "variante": [
+      "Totalitatea bunurilor dintr-un depozit",
+      "Totalitatea activităților pentru a asigura forțelor necesarul pentru misiune",
+      "Acordurile de sprijin cu națiunea gazdă",
+      "Doar transportul de materiale"
+    ],
+    "raspunsCorect": "Totalitatea activităților pentru a asigura forțelor necesarul pentru misiune",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 7"
+  },
+  {
+    "id": 11,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Care dintre următoarele NU este un principiu al logisticii operațiilor întrunite?",
+    "variante": [
+      "Flexibilitatea",
+      "Simplitatea",
+      "Rigiditatea",
+      "Previziunea"
+    ],
+    "raspunsCorect": "Rigiditatea",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12"
+  },
+  {
+    "id": 12,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Pentru câte zile de luptă sunt dimensionate stocurile (trupe + operativ) însumate?",
+    "variante": [
+      "15 zile",
+      "45 de zile",
+      "30 de zile",
+      "90 de zile"
+    ],
+    "raspunsCorect": "30 de zile",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 30"
+  },
+  {
+    "id": 13,
+    "categorie": "Constituția României",
+    "intrebare": "Care este, conform Constituției, unica autoritate legiuitoare a țării?",
+    "variante": [
+      "Guvernul",
+      "Președintele",
+      "Parlamentul",
+      "CSAT"
+    ],
+    "raspunsCorect": "Parlamentul",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 58"
+  },
+  {
+    "id": 14,
+    "categorie": "Constituția României",
+    "intrebare": "Cine este, potrivit Art. 92, comandantul forțelor armate?",
+    "variante": [
+      "Prim-ministrul",
+      "Ministrul Apărării",
+      "Președintele României",
+      "Șeful Statului Major"
+    ],
+    "raspunsCorect": "Președintele României",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 92"
+  },
+  {
+    "id": 15,
+    "categorie": "Constituția României",
+    "intrebare": "Cine poate declara mobilizarea generală a forțelor armate, cu aprobarea Parlamentului?",
+    "variante": [
+      "Guvernul",
+      "Președintele României",
+      "CSAT",
+      "Ministrul Apărării"
+    ],
+    "raspunsCorect": "Președintele României",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 92"
+  },
+  {
+    "id": 16,
+    "categorie": "Constituția României",
+    "intrebare": "Armata este subordonată exclusiv:",
+    "variante": [
+      "Guvernului",
+      "Voinței poporului",
+      "Președintelui",
+      "Parlamentului"
+    ],
+    "raspunsCorect": "Voinței poporului",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 117"
+  },
+  {
+    "id": 17,
+    "categorie": "Constituția României",
+    "intrebare": "Care este îndatorirea fundamentală a cetățenilor prevăzută la Art. 52?",
+    "variante": [
+      "Contribuția la cheltuieli publice",
+      "Respectarea legilor",
+      "Apărarea României",
+      "Participarea la vot"
+    ],
+    "raspunsCorect": "Apărarea României",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 52"
+  },
+  {
+    "id": 18,
+    "categorie": "Constituția României",
+    "intrebare": "Ce rol principal are Consiliul Suprem de Apărare a Țării?",
+    "variante": [
+      "Legiferează în domeniul apărării",
+      "Numește conducerea armatei",
+      "Organizează și coordonează unitar activitățile privind apărarea și siguranța națională",
+      "Aprobă bugetul armatei"
+    ],
+    "raspunsCorect": "Organizează și coordonează unitar activitățile privind apărarea și siguranța națională",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 118"
+  },
+  {
+    "id": 19,
+    "categorie": "Constituția României",
+    "intrebare": "Pentru ce motiv se întrunesc Camerele Parlamentului în ședință comună, conform Art. 62?",
+    "variante": [
+      "Dezbaterea moțiunilor simple",
+      "Numirea ambasadorilor",
+      "Declararea stării de război",
+      "Audierea directorilor de regii autonome"
+    ],
+    "raspunsCorect": "Declararea stării de război",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 62"
+  },
+  {
+    "id": 20,
+    "categorie": "Constituția României",
+    "intrebare": "Cum se instituie starea de asediu sau de urgență?",
+    "variante": [
+      "Prin hotărâre de Guvern",
+      "Prin decret al Președintelui, cu solicitarea ulterioară a încuviințării Parlamentului",
+      "Prin lege adoptată de Parlament",
+      "Prin decizie a CSAT"
+    ],
+    "raspunsCorect": "Prin decret al Președintelui, cu solicitarea ulterioară a încuviințării Parlamentului",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 93"
+  },
+  {
+    "id": 21,
+    "categorie": "Constituția României",
+    "intrebare": "Ce categorie de personal NU poate face parte din partide politice?",
+    "variante": [
+      "Medicii și profesorii",
+      "Artiștii și scriitorii",
+      "Membrii activi ai armatei și polițiștii",
+      "Avocații și notarii"
+    ],
+    "raspunsCorect": "Membrii activi ai armatei și polițiștii",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 37"
+  },
+  {
+    "id": 22,
+    "categorie": "Constituția României",
+    "intrebare": "Ce activități sunt interzise în afara unei autorități statale?",
+    "variante": [
+      "Activități economice private",
+      "Fundații și asociații non-profit",
+      "Activități militare sau paramilitare",
+      "Organizarea de evenimente sportive"
+    ],
+    "raspunsCorect": "Activități militare sau paramilitare",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 117"
+  },
+  {
+    "id": 23,
+    "categorie": "Constituția României",
+    "intrebare": "Prin ce tip de act normativ se stabilește statutul cadrelor militare?",
+    "variante": [
+      "Lege ordinară",
+      "Hotărâre de Guvern",
+      "Decret prezidențial",
+      "Lege organică"
+    ],
+    "raspunsCorect": "Lege organică",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 117"
+  },
+  {
+    "id": 24,
+    "categorie": "Constituția României",
+    "intrebare": "Ce obligație au militarii, pe lângă îndeplinirea cu credință a obligațiilor?",
+    "variante": [
+      "Să urmeze un stagiu civic",
+      "Să fie membri de sindicat",
+      "Să depună jurământul cerut de lege",
+      "Să aibă studii superioare"
+    ],
+    "raspunsCorect": "Să depună jurământul cerut de lege",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 50"
+  },
+  {
+    "id": 25,
+    "categorie": "Constituția României",
+    "intrebare": "Cine numește Guvernul?",
+    "variante": [
+      "Senatul",
+      "Președintele României, pe baza votului de încredere al Parlamentului",
+      "Avocatul Poporului",
+      "Curtea Constituțională"
+    ],
+    "raspunsCorect": "Președintele României, pe baza votului de încredere al Parlamentului",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 85"
+  },
+  {
+    "id": 26,
+    "categorie": "Constituția României",
+    "intrebare": "Ce condiții de cetățenie și domiciliu se cer pentru ocuparea funcțiilor publice militare?",
+    "variante": [
+      "Cetățenie a unui stat membru NATO",
+      "Numai cetățenia română și domiciliul în țară",
+      "Dublă cetățenie română și a unui stat UE",
+      "Cetățenie română, indiferent de domiciliu"
+    ],
+    "raspunsCorect": "Numai cetățenia română și domiciliul în țară",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 16"
+  },
+  {
+    "id": 27,
+    "categorie": "Constituția României",
+    "intrebare": "În ce condiții pot intra trupe străine pe teritoriul României?",
+    "variante": [
+      "La invitația Guvernului",
+      "La cererea Președintelui",
+      "Numai în condițiile stabilite de lege",
+      "Doar cu aprobarea CSAT"
+    ],
+    "raspunsCorect": "Numai în condițiile stabilite de lege",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 117"
+  },
+  {
+    "id": 28,
+    "categorie": "Constituția României",
+    "intrebare": "Ce rol are Președintele României în raport cu independența națională?",
+    "variante": [
+      "Este consultant",
+      "Este garantul acestora",
+      "Este observator extern",
+      "Este un simplu reprezentant"
+    ],
+    "raspunsCorect": "Este garantul acestora",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 80"
+  },
+  {
+    "id": 29,
+    "categorie": "Constituția României",
+    "intrebare": "În caz de agresiune armată, ce măsură imediată ia Președintele României?",
+    "variante": [
+      "Așteaptă decizia Parlamentului pentru a acționa",
+      "Convoacă un referendum național de urgență",
+      "Ia măsuri pentru respingerea agresiunii și informează neîntârziat Parlamentul",
+      "Solicită imediat intervenția NATO"
+    ],
+    "raspunsCorect": "Ia măsuri pentru respingerea agresiunii și informează neîntârziat Parlamentul",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 92"
+  },
+  {
+    "id": 30,
+    "categorie": "Constituția României",
+    "intrebare": "Ce statut capătă un tratat internațional după ce este ratificat de Parlament?",
+    "variante": [
+      "Rămâne un document extern",
+      "Necesită o lege separată de aplicare",
+      "Face parte din dreptul intern",
+      "Este valabil doar pentru cetățenii străini"
+    ],
+    "raspunsCorect": "Face parte din dreptul intern",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 11"
+  },
+  {
+    "id": 31,
+    "categorie": "Constituția României",
+    "intrebare": "Prin ce act normativ se stabilește organizarea Guvernului și a CSAT?",
+    "variante": [
+      "Lege ordinară",
+      "Hotărâre de Guvern",
+      "Decret prezidențial",
+      "Lege organică"
+    ],
+    "raspunsCorect": "Lege organică",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 72"
+  },
+  {
+    "id": 32,
+    "categorie": "Constituția României",
+    "intrebare": "În ce condiții poate fi restrâns exercițiul unor drepturi sau libertăți?",
+    "variante": [
+      "Prin decizie administrativă",
+      "Numai prin lege și dacă se impune pentru apărarea siguranței naționale",
+      "Prin ordin de ministru",
+      "La cererea Avocatului Poporului"
+    ],
+    "raspunsCorect": "Numai prin lege și dacă se impune pentru apărarea siguranței naționale",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 49"
+  },
+  {
+    "id": 33,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce cuprinde Apărarea Națională conform legii?",
+    "variante": [
+      "Doar acțiunile militare pe timp de război",
+      "Ansamblul de măsuri pentru garantarea suveranității, independenței și integrității teritoriale",
+      "Activitățile de politică externă",
+      "Doar pregătirea populației pentru urgențe"
+    ],
+    "raspunsCorect": "Ansamblul de măsuri pentru garantarea suveranității, independenței și integrității teritoriale",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 1"
+  },
+  {
+    "id": 34,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Care NU este o componentă a sistemului național de apărare?",
+    "variante": [
+      "Conducerea",
+      "Forțele",
+      "Resursele",
+      "Partidele politice"
+    ],
+    "raspunsCorect": "Partidele politice",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 6"
+  },
+  {
+    "id": 35,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cui îi este subordonat direct Marele Cartier General pe timp de război?",
+    "variante": [
+      "Guvernului",
+      "Ministrului Apărării",
+      "Consiliului Suprem de Apărare a Țării",
+      "Parlamentului"
+    ],
+    "raspunsCorect": "Consiliului Suprem de Apărare a Țării",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 8"
+  },
+  {
+    "id": 36,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce includ 'Forțele armate'?",
+    "variante": [
+      "Doar armata",
+      "Doar unitățile MAI",
+      "Armata, unități din MAI, servicii de informații și alte formațiuni de apărare armată",
+      "Doar protecția civilă"
+    ],
+    "raspunsCorect": "Armata, unități din MAI, servicii de informații și alte formațiuni de apărare armată",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 11"
+  },
+  {
+    "id": 37,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine trebuie să obțină avizul Statului Major General pentru amplasarea noilor obiective de investiții?",
+    "variante": [
+      "Doar autoritățile publice",
+      "Doar agenții economici privați",
+      "Ministerele, autoritățile publice și agenții economici, indiferent de forma de proprietate",
+      "Persoanele fizice"
+    ],
+    "raspunsCorect": "Ministerele, autoritățile publice și agenții economici, indiferent de forma de proprietate",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 21"
+  },
+  {
+    "id": 38,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Care este componenta de bază a forțelor armate?",
+    "variante": [
+      "Forțele de protecție",
+      "Serviciile de informații",
+      "Armata",
+      "Jandarmeria"
+    ],
+    "raspunsCorect": "Armata",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 26"
+  },
+  {
+    "id": 39,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Care NU este o categorie de forțe ale armatei?",
+    "variante": [
+      "Trupe de uscat",
+      "Aviația și apărarea antiaeriană",
+      "Poliția de frontieră",
+      "Marina militară"
+    ],
+    "raspunsCorect": "Poliția de frontieră",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 29"
+  },
+  {
+    "id": 40,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce atribuție are Guvernul privind rezervele materiale pentru război?",
+    "variante": [
+      "Le verifică anual",
+      "Asigură constituirea lor din timp de pace",
+      "Le vinde la licitație",
+      "Nu are nicio atribuție"
+    ],
+    "raspunsCorect": "Asigură constituirea lor din timp de pace",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 32"
+  },
+  {
+    "id": 41,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "De ce răspunde Ministerul Apărării Naționale în domeniul militar?",
+    "variante": [
+      "De înfăptuirea concepției de apărare a țării",
+      "De conducerea agenților economici",
+      "De politica externă a țării",
+      "De organizarea alegerilor"
+    ],
+    "raspunsCorect": "De înfăptuirea concepției de apărare a țării",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 33"
+  },
+  {
+    "id": 42,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce obligație au autoritățile locale față de unitățile militare din raza lor teritorială?",
+    "variante": [
+      "Să le asigure finanțare",
+      "Să intervină pentru satisfacerea cererilor de mobilizare",
+      "Să le ignore cererile",
+      "Să le comande în luptă"
+    ],
+    "raspunsCorect": "Să intervină pentru satisfacerea cererilor de mobilizare",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 35"
+  },
+  {
+    "id": 43,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cum sunt asigurate cerințele forțelor destinate apărării la declararea mobilizării?",
+    "variante": [
+      "În funcție de disponibilități",
+      "După încetarea stării de război",
+      "Cu prioritate",
+      "După nevoile populației"
+    ],
+    "raspunsCorect": "Cu prioritate",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 34"
+  },
+  {
+    "id": 44,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine aprobă participarea armatei la exerciții militare comune în afara țării?",
+    "variante": [
+      "Ministrul Apărării",
+      "Parlamentul",
+      "Guvernul",
+      "Consiliul Suprem de Apărare a Țării"
+    ],
+    "raspunsCorect": "Consiliul Suprem de Apărare a Țării",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 5"
+  },
+  {
+    "id": 45,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce restricție se aplică cetățenilor care nu și-au îndeplinit serviciul militar din motive imputabile?",
+    "variante": [
+      "Nu pot călători în străinătate",
+      "Nu pot fi numiți în funcții de conducere în instituțiile publice",
+      "Plătesc taxe mai mari",
+      "Le este anulat dreptul de vot"
+    ],
+    "raspunsCorect": "Nu pot fi numiți în funcții de conducere în instituțiile publice",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 16"
+  },
+  {
+    "id": 46,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine verifică stadiul pregătirii teritoriului pentru apărare?",
+    "variante": [
+      "Prefecturile",
+      "Doar MApN",
+      "Statul Major General împreună cu alte instituții abilitate",
+      "Comisiile parlamentare"
+    ],
+    "raspunsCorect": "Statul Major General împreună cu alte instituții abilitate",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 24"
+  },
+  {
+    "id": 47,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine numește șeful Marelui Cartier General?",
+    "variante": [
+      "Parlamentul",
+      "Președintele României, la propunerea ministrului apărării",
+      "Prim-ministrul",
+      "Ministrul apărării, direct"
+    ],
+    "raspunsCorect": "Președintele României, la propunerea ministrului apărării",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 8"
+  },
+  {
+    "id": 48,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce sunt forțele de protecție?",
+    "variante": [
+      "Unități de Jandarmerie",
+      "Unitățile de protecție civilă, formațiunile Crucii Roșii și altele",
+      "Servicii private de pază",
+      "Gărzile de corp"
+    ],
+    "raspunsCorect": "Unitățile de protecție civilă, formațiunile Crucii Roșii și altele",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 12"
+  },
+  {
+    "id": 49,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "De unde sunt suportate cheltuielile forțelor armate?",
+    "variante": [
+      "Doar din donații",
+      "Din taxe speciale",
+      "Din bugetul de stat și alte fonduri legale",
+      "Din bugetele locale"
+    ],
+    "raspunsCorect": "Din bugetul de stat și alte fonduri legale",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 19"
+  },
+  {
+    "id": 50,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce obligație au agenții economici la război față de comenzile pentru apărare?",
+    "variante": [
+      "Le pot refuza",
+      "Le pot amâna",
+      "Au obligația de a le satisface cu prioritate",
+      "Negociază prețuri mai mari"
+    ],
+    "raspunsCorect": "Au obligația de a le satisface cu prioritate",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 25"
+  },
+  {
+    "id": 51,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine răspunde de organizarea măsurilor ce privesc apărarea națională?",
+    "variante": [
+      "Președintele",
+      "Parlamentul",
+      "Fiecare minister individual",
+      "Guvernul"
+    ],
+    "raspunsCorect": "Guvernul",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 32"
+  },
+  {
+    "id": 52,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "În caz de agresiune ce depășește capacitatea armatei, ce va cuprinde riposta?",
+    "variante": [
+      "Doar negocieri",
+      "O retragere",
+      "Angajarea tuturor resurselor umane și materiale",
+      "Așteptarea ajutorului extern"
+    ],
+    "raspunsCorect": "Angajarea tuturor resurselor umane și materiale",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 4"
+  },
+  {
+    "id": 53,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care NU este un corp de cadre militare?",
+    "variante": [
+      "Corpul subofițerilor",
+      "Corpul soldaților gradați profesioniști",
+      "Corpul maiștrilor militari",
+      "Corpul ofițerilor"
+    ],
+    "raspunsCorect": "Corpul soldaților gradați profesioniști",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 2"
+  },
+  {
+    "id": 54,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În ce situație se află un cadru militar ce poate fi chemat ca rezervist?",
+    "variante": [
+      "În activitate",
+      "În retragere",
+      "În rezervă",
+      "În permisie"
+    ],
+    "raspunsCorect": "În rezervă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 4"
+  },
+  {
+    "id": 55,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este o îndatorire principală a cadrelor militare?",
+    "variante": [
+      "Să candideze la alegeri",
+      "Să execute întocmai și la timp ordinele comandanților",
+      "Să participe la greve",
+      "Să publice informații militare"
+    ],
+    "raspunsCorect": "Să execute întocmai și la timp ordinele comandanților",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 8"
+  },
+  {
+    "id": 56,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept NU au cadrele militare în activitate?",
+    "variante": [
+      "Dreptul la soldă",
+      "Dreptul de a face parte din partide politice",
+      "Dreptul la concediu",
+      "Dreptul la asistență medicală"
+    ],
+    "raspunsCorect": "Dreptul de a face parte din partide politice",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 28"
+  },
+  {
+    "id": 57,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce le este interzis cadrelor militare în activitate la mitinguri?",
+    "variante": [
+      "Participarea este permisă oricând",
+      "Participarea este permisă cu aprobare",
+      "Participarea cu caracter politic ori sindical este interzisă, excepție făcând misiunile",
+      "Participarea este permisă fără uniformă"
+    ],
+    "raspunsCorect": "Participarea cu caracter politic ori sindical este interzisă, excepție făcând misiunile",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 29"
+  },
+  {
+    "id": 58,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este cea mai blândă sancțiune disciplinară?",
+    "variante": [
+      "Mustrare scrisă",
+      "Amânarea înaintării în grad",
+      "Avertisment",
+      "Diminuarea soldei"
+    ],
+    "raspunsCorect": "Avertisment",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35"
+  },
+  {
+    "id": 59,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este cea mai aspră sancțiune disciplinară?",
+    "variante": [
+      "Retrogradarea în funcție",
+      "Amânarea înaintării în grad",
+      "Diminuarea soldei",
+      "Trecerea în rezervă"
+    ],
+    "raspunsCorect": "Trecerea în rezervă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35"
+  },
+  {
+    "id": 60,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Din ce categorie de personal pot proveni ofițerii în activitate?",
+    "variante": [
+      "Doar din absolvenți de liceu militar",
+      "Din maiștri militari, subofițeri, soldați și gradați profesioniști în activitate, absolvenți de studii superioare",
+      "Doar din civili fără stagiu militar",
+      "Din funcționari publici"
+    ],
+    "raspunsCorect": "Din maiștri militari, subofițeri, soldați și gradați profesioniști în activitate, absolvenți de studii superioare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 36"
+  },
+  {
+    "id": 61,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Cine aprobă trecerea în rezervă a generalilor?",
+    "variante": [
+      "Ministrul Apărării",
+      "Prim-ministrul",
+      "Președintele României",
+      "Șeful Statului Major"
+    ],
+    "raspunsCorect": "Președintele României",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 43"
+  },
+  {
+    "id": 62,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Când se întrerup concediile cadrelor militare?",
+    "variante": [
+      "La fiecare exercițiu",
+      "La declararea mobilizării sau a stării de război",
+      "La schimbarea guvernului",
+      "În sezonul rece"
+    ],
+    "raspunsCorect": "La declararea mobilizării sau a stării de război",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 19"
+  },
+  {
+    "id": 63,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Când poate un cadru militar beneficia de compensație pentru chirie?",
+    "variante": [
+      "Dacă dorește să locuiască în afara unității",
+      "Dacă este mutat în interes de serviciu într-o garnizoană unde nu deține locuință",
+      "Toate cadrele, necondiționat",
+      "Doar ofițerii superiori"
+    ],
+    "raspunsCorect": "Dacă este mutat în interes de serviciu într-o garnizoană unde nu deține locuință",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 20^1"
+  },
+  {
+    "id": 64,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă dacă un militar refuză un ordin contrar legii?",
+    "variante": [
+      "Este sancționat pentru nesupunere",
+      "Neexecutarea nu atrage răspunderea penală și civilă",
+      "Este trecut imediat în rezervă",
+      "Este judecat de curtea marțială"
+    ],
+    "raspunsCorect": "Neexecutarea nu atrage răspunderea penală și civilă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 8"
+  },
+  {
+    "id": 65,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept se poate acorda cadrelor militare cu peste 20 ani de serviciu la trecerea în rezervă?",
+    "variante": [
+      "O primă substanțială",
+      "Dreptul de a purta uniforma militară",
+      "Un grad superior automat",
+      "O funcție publică"
+    ],
+    "raspunsCorect": "Dreptul de a purta uniforma militară",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 27"
+  },
+  {
+    "id": 66,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce interdicție au cadrele militare în activitate legat de societățile comerciale?",
+    "variante": [
+      "Nu pot deține acțiuni",
+      "Le este interzis să participe la administrarea sau conducerea acestora",
+      "Nu pot cumpăra de la ele",
+      "Pot fi administratori doar la firme de stat"
+    ],
+    "raspunsCorect": "Le este interzis să participe la administrarea sau conducerea acestora",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 30"
+  },
+  {
+    "id": 67,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În cât timp de la constatare se aplică sancțiunile disciplinare?",
+    "variante": [
+      "Oricând",
+      "În cel mult un an",
+      "În cel mult 30 de zile",
+      "În cel mult 6 luni"
+    ],
+    "raspunsCorect": "În cel mult 6 luni",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35"
+  },
+  {
+    "id": 68,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Pe ce bază se aplică sancțiunea 'retrogradarea în funcție'?",
+    "variante": [
+      "Pentru orice abatere",
+      "La cererea militarului",
+      "În baza hotărârii consiliului de onoare",
+      "Pentru întârzieri la program"
+    ],
+    "raspunsCorect": "În baza hotărârii consiliului de onoare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35^3"
+  },
+  {
+    "id": 69,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "De câte înaintări în grad înainte de termen/excepțional poate beneficia un militar?",
+    "variante": [
+      "Oricâte",
+      "Una singură",
+      "Cel mult două",
+      "Niciuna"
+    ],
+    "raspunsCorect": "Cel mult două",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 53"
+  },
+  {
+    "id": 70,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu un militar condamnat la închisoare cu executare?",
+    "variante": [
+      "Este menținut în activitate",
+      "Este suspendat temporar",
+      "Se trece în rezervă sau retragere",
+      "Revine în funcție după executare"
+    ],
+    "raspunsCorect": "Se trece în rezervă sau retragere",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 87"
+  },
+  {
+    "id": 71,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Când poate fi un militar numit într-o funcție inferioară gradului său?",
+    "variante": [
+      "Niciodată",
+      "La cerere, pentru un program lejer",
+      "La reorganizări sau ca sancțiune",
+      "Doar în ultimul an de activitate"
+    ],
+    "raspunsCorect": "La reorganizări sau ca sancțiune",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 81"
+  },
+  {
+    "id": 72,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este limita de vârstă pentru chemarea în activitate a subofițerilor în rezervă?",
+    "variante": [
+      "55 de ani",
+      "50 de ani",
+      "45 de ani",
+      "Fără limită de vârstă"
+    ],
+    "raspunsCorect": "45 de ani",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 43"
+  },
+  {
+    "id": 73,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este o recompensă ce poate fi acordată militarilor?",
+    "variante": [
+      "O zi liberă în plus",
+      "Conferirea de decorații și titluri de onoare",
+      "Promovare automată",
+      "Ștergerea unei sancțiuni"
+    ],
+    "raspunsCorect": "Conferirea de decorații și titluri de onoare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 33"
+  },
+  {
+    "id": 74,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce obligație are un militar care și-a dat demisia, până la trecerea efectivă în rezervă?",
+    "variante": [
+      "Poate pleca imediat",
+      "Intră în concediu",
+      "Este obligat să-și îndeplinească atribuțiile funcției",
+      "Predă imediat funcția"
+    ],
+    "raspunsCorect": "Este obligat să-și îndeplinească atribuțiile funcției",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 85"
+  },
+  {
+    "id": 75,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu militarii arestați preventiv?",
+    "variante": [
+      "Sunt puși la dispoziție",
+      "Sunt suspendati din funcție și nu beneficiază de drepturi de la MApN",
+      "Sunt considerați în concediu medical",
+      "Rămân în funcție"
+    ],
+    "raspunsCorect": "Sunt suspendati din funcție și nu beneficiază de drepturi de la MApN",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 89"
+  },
+  {
+    "id": 76,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept au copiii militarilor decedați în timpul și din cauza serviciului?",
+    "variante": [
+      "Primesc o funcție în armată",
+      "Pot fi transferați la liceele militare pe baza unui test de aptitudini",
+      "Primesc pensie triplă",
+      "Primesc locuință de serviciu"
+    ],
+    "raspunsCorect": "Pot fi transferați la liceele militare pe baza unui test de aptitudini",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 25"
+  },
+  {
+    "id": 77,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce reprezintă gradul militar?",
+    "variante": [
+      "Vechimea în muncă",
+      "Rezultatul unui concurs",
+      "Un drept al titularului și recunoașterea socială a calității de cadru militar",
+      "O decizie a comandantului"
+    ],
+    "raspunsCorect": "Un drept al titularului și recunoașterea socială a calității de cadru militar",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 3"
+  },
+  {
+    "id": 78,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Care este o atribuție principală a Ministerului Apărării Naționale?",
+    "variante": [
+      "Gestionarea politicii externe",
+      "Realizarea și menținerea capacității operaționale a armatei",
+      "Organizarea alegerilor",
+      "Coordonarea sănătății publice"
+    ],
+    "raspunsCorect": "Realizarea și menținerea capacității operaționale a armatei",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 5"
+  },
+  {
+    "id": 79,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Cine este militarul cu cel mai înalt rang de conducere în armată?",
+    "variante": [
+      "Ministrul apărării",
+      "Secretarul de stat",
+      "Șeful Statului Major al Apărării",
+      "Președintele României"
+    ],
+    "raspunsCorect": "Șeful Statului Major al Apărării",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 39"
+  },
+  {
+    "id": 80,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Pentru ce perioadă este numit Șeful Statului Major al Apărării?",
+    "variante": [
+      "Nedeterminată",
+      "Doi ani",
+      "Patru ani, cu posibilitate de prelungire cu un an",
+      "Cinci ani"
+    ],
+    "raspunsCorect": "Patru ani, cu posibilitate de prelungire cu un an",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 39"
+  },
+  {
+    "id": 81,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce misiune au structurile de poliție militară?",
+    "variante": [
+      "Investigarea infracțiunilor comune",
+      "Paza demnitarilor",
+      "Asigurarea ordinii și disciplinei militare în obiectivele militare",
+      "Paza frontierelor"
+    ],
+    "raspunsCorect": "Asigurarea ordinii și disciplinei militare în obiectivele militare",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 36"
+  },
+  {
+    "id": 82,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Care NU este o categorie de forțe ale armatei?",
+    "variante": [
+      "Forțe terestre",
+      "Forțe aeriene",
+      "Forțe de jandarmerie",
+      "Forțe navale"
+    ],
+    "raspunsCorect": "Forțe de jandarmerie",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 28"
+  },
+  {
+    "id": 83,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce tip de misiuni execută Forțele pentru Operații Speciale?",
+    "variante": [
+      "Doar patrulare",
+      "Doar asistență medicală",
+      "Cercetare specială, acțiuni directe, asistență militară și neconvenționale",
+      "Doar deminare"
+    ],
+    "raspunsCorect": "Cercetare specială, acțiuni directe, asistență militară și neconvenționale",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 37"
+  },
+  {
+    "id": 84,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Cine numește Șeful Statului Major al Apărării?",
+    "variante": [
+      "Parlamentul",
+      "Președintele României, la propunerea ministrului apărării, cu avizul prim-ministrului",
+      "Guvernul",
+      "Ministrul apărării"
+    ],
+    "raspunsCorect": "Președintele României, la propunerea ministrului apărării, cu avizul prim-ministrului",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 39"
+  },
+  {
+    "id": 85,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce tip de acte emite ministrul apărării naționale?",
+    "variante": [
+      "Legi",
+      "Decrete",
+      "Ordine și instrucțiuni",
+      "Hotărâri de guvern"
+    ],
+    "raspunsCorect": "Ordine și instrucțiuni",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 40"
+  },
+  {
+    "id": 86,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "În ce domeniu MApN este autoritate națională?",
+    "variante": [
+      "Siguranța rutieră",
+      "Sanitar-veterinar",
+      "Pregătirea și brevetarea scafandrilor",
+      "Energie nucleară"
+    ],
+    "raspunsCorect": "Pregătirea și brevetarea scafandrilor",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 6"
+  },
+  {
+    "id": 87,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "În ce calitate poate Comandamentul Logistic Întrunit avea în subordine grădinițe?",
+    "variante": [
+      "Ca structură de luptă",
+      "Ca structură de sprijin logistic",
+      "Ca structură de învățământ",
+      "Nu poate avea"
+    ],
+    "raspunsCorect": "Ca structură de sprijin logistic",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 31"
+  },
+  {
+    "id": 88,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce atribuție are MApN legat de pensiile militare?",
+    "variante": [
+      "Stabilește cuantumul tuturor pensiilor",
+      "Nu are atribuții",
+      "Doar colectează contribuții",
+      "Gestionarea sistemului pensiilor militare de stat"
+    ],
+    "raspunsCorect": "Gestionarea sistemului pensiilor militare de stat",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 5"
+  },
+  {
+    "id": 89,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Cine conduce și reprezintă MApN?",
+    "variante": [
+      "Șeful Statului Major",
+      "Secretarul general",
+      "Ministrul apărării naționale",
+      "Un consiliu"
+    ],
+    "raspunsCorect": "Ministrul apărării naționale",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 39"
+  },
+  {
+    "id": 90,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce tip de acte emite Șeful Statului Major al Apărării?",
+    "variante": [
+      "Legi",
+      "Recomandări",
+      "Ordine cu conținut militar și dispoziții",
+      "Ordine de zi"
+    ],
+    "raspunsCorect": "Ordine cu conținut militar și dispoziții",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 40"
+  },
+  {
+    "id": 91,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "În ce scop poate MApN pune la dispoziția NATO structuri de forțe?",
+    "variante": [
+      "Pentru a reduce bugetul",
+      "Pentru parade",
+      "Pentru îndeplinirea misiunilor specifice Alianței",
+      "Pentru a prelua comanda"
+    ],
+    "raspunsCorect": "Pentru îndeplinirea misiunilor specifice Alianței",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 38"
+  },
+  {
+    "id": 92,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Cine poate fi numit șef al Statului Major al Apărării?",
+    "variante": [
+      "Orice general",
+      "Un civil",
+      "Locțiitorul acestuia sau unul dintre șefii categoriilor de forțe",
+      "Doar un ofițer de la terestre"
+    ],
+    "raspunsCorect": "Locțiitorul acestuia sau unul dintre șefii categoriilor de forțe",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 39"
+  },
+  {
+    "id": 155,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Care NU este un principiu al atribuirii contractelor de achiziție publică?",
+    "variante": [
+      "Nediscriminarea",
+      "Transparența",
+      "Profitul maxim pentru autoritate",
+      "Asumarea răspunderii"
+    ],
+    "raspunsCorect": "Profitul maxim pentru autoritate",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 2, alin. (2)"
+  },
+  {
+    "id": 156,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este un 'acord-cadru'?",
+    "variante": [
+      "Un contract deja atribuit",
+      "Un acord de cumpărare în comun",
+      "Un acord ce stabilește termenii contractelor viitoare într-o anumită perioadă",
+      "Documentația unei licitații"
+    ],
+    "raspunsCorect": "Un acord ce stabilește termenii contractelor viitoare într-o anumită perioadă",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. c)"
+  },
+  {
+    "id": 157,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Care este o procedură de atribuire reglementată de Legea 98/2016?",
+    "variante": [
+      "Atribuire preferențială",
+      "Licitația restrânsă",
+      "Selecție pe bază de recomandare",
+      "Achiziție de urgență fără acte"
+    ],
+    "raspunsCorect": "Licitația restrânsă",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 68, alin. (1), lit. b)"
+  },
+  {
+    "id": 158,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Când se poate aplica negocierea fără publicare prealabilă?",
+    "variante": [
+      "Când prețurile sunt prea mari",
+      "Pentru finalizare rapidă",
+      "Din motive de extremă urgență, determinate de evenimente imprevizibile",
+      "Când sunt mulți ofertanți"
+    ],
+    "raspunsCorect": "Din motive de extremă urgență, determinate de evenimente imprevizibile",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 104, alin. (1), lit. c)"
+  },
+  {
+    "id": 159,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce document stă la baza programului anual de achiziții?",
+    "variante": [
+      "Strategia de contractare",
+      "Procesul verbal de recepție",
+      "Referatul de necesitate",
+      "Factura proformă"
+    ],
+    "raspunsCorect": "Referatul de necesitate",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 3, alin. (1)"
+  },
+  {
+    "id": 160,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care sunt cele trei etape ale unui proces de achiziție publică?",
+    "variante": [
+      "Negociere, Semnare, Plată",
+      "Planificare/pregătire; Organizare/atribuire; Postatribuire/monitorizare",
+      "Publicare, Depunere, Evaluare",
+      "Cercetare, Bugetare, Finalizare"
+    ],
+    "raspunsCorect": "Planificare/pregătire; Organizare/atribuire; Postatribuire/monitorizare",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 8, alin. (2)"
+  },
+  {
+    "id": 161,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce document conține prescripțiile tehnice ale unui produs/serviciu?",
+    "variante": [
+      "Contractul",
+      "Garanția de participare",
+      "Caietul de sarcini",
+      "DUAE"
+    ],
+    "raspunsCorect": "Caietul de sarcini",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 20, alin. (10)"
+  },
+  {
+    "id": 162,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce scop are 'garanția de participare'?",
+    "variante": [
+      "Asigurarea plății contractului",
+      "Protejarea autorității față de un comportament necorespunzător al ofertantului",
+      "Acoperirea cheltuielilor de publicitate",
+      "Garantarea calității produselor"
+    ],
+    "raspunsCorect": "Protejarea autorității față de un comportament necorespunzător al ofertantului",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 35, alin. (1)"
+  },
+  {
+    "id": 163,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce scop are 'garanția de bună execuție'?",
+    "variante": [
+      "Protejarea ofertantului",
+      "Acoperirea daunelor de transport",
+      "Asigurarea autorității de îndeplinirea cantitativă, calitativă și la termen a contractului",
+      "Asigurarea participării la licitație"
+    ],
+    "raspunsCorect": "Asigurarea autorității de îndeplinirea cantitativă, calitativă și la termen a contractului",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 39, alin. (1)"
+  },
+  {
+    "id": 164,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Într-o licitație deschisă, cine poate depune ofertă?",
+    "variante": [
+      "Doar cei pre-selectați",
+      "Orice operator economic interesat",
+      "Doar firmele locale",
+      "Doar firmele de stat"
+    ],
+    "raspunsCorect": "Orice operator economic interesat",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 71"
+  },
+  {
+    "id": 165,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Când se reține garanția de participare a unui ofertant?",
+    "variante": [
+      "Dacă nu câștigă",
+      "Dacă își retrage oferta în perioada de valabilitate",
+      "Dacă cere clarificări",
+      "Niciodată"
+    ],
+    "raspunsCorect": "Dacă își retrage oferta în perioada de valabilitate",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 37, alin. (1), lit. a)"
+  },
+  {
+    "id": 166,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este 'documentația de atribuire'?",
+    "variante": [
+      "Contractul final",
+      "Anunțul de participare",
+      "Documentul cu cerințele, criteriile și regulile pentru informarea completă a operatorilor economici",
+      "Oferta depusă"
+    ],
+    "raspunsCorect": "Documentul cu cerințele, criteriile și regulile pentru informarea completă a operatorilor economici",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. z)"
+  },
+  {
+    "id": 167,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Când se constituie garanția de bună execuție?",
+    "variante": [
+      "Înainte de ofertare",
+      "La 30 de zile de la semnare",
+      "În 5 zile lucrătoare de la semnarea contractului",
+      "La finalul contractului"
+    ],
+    "raspunsCorect": "În 5 zile lucrătoare de la semnarea contractului",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 39, alin. (3)"
+  },
+  {
+    "id": 168,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce înseamnă SEAP?",
+    "variante": [
+      "Serviciul European de Achiziții Publice",
+      "Sistemul Electronic de Achiziții Publice",
+      "Secretariatul pentru Armamente și Producție",
+      "Sistemul de Evaluare a Performanței"
+    ],
+    "raspunsCorect": "Sistemul Electronic de Achiziții Publice",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. nn)"
+  },
+  {
+    "id": 169,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care este ponderea maximă a prețului pentru contractele de servicii intelectuale?",
+    "variante": [
+      "100%",
+      "60%",
+      "40%",
+      "Fără limită"
+    ],
+    "raspunsCorect": "40%",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 32, alin. (6)"
+  },
+  {
+    "id": 170,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Într-o 'licitație restrânsă', cine depune oferta?",
+    "variante": [
+      "Oricine",
+      "Doar cei invitați",
+      "Numai candidații calificați și selectați, care au fost invitați",
+      "Doar foști contractori"
+    ],
+    "raspunsCorect": "Numai candidații calificați și selectați, care au fost invitați",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 76"
+  },
+  {
+    "id": 171,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este 'subcontractantul'?",
+    "variante": [
+      "Un alt ofertant",
+      "Un consultant",
+      "Un operator economic care execută părți din contract, nefiind parte la acesta",
+      "Un furnizor"
+    ],
+    "raspunsCorect": "Un operator economic care execută părți din contract, nefiind parte la acesta",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. yy)"
+  },
+  {
+    "id": 172,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce face autoritatea contractantă cu programul anual de achiziții după aprobarea bugetului?",
+    "variante": [
+      "Îl anulează",
+      "Îl trimite la Curtea de Conturi",
+      "Îl actualizează în funcție de fondurile aprobate",
+      "Îl publică în ziar"
+    ],
+    "raspunsCorect": "Îl actualizează în funcție de fondurile aprobate",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 12, alin. (4)"
+  },
+  {
+    "id": 173,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este un 'concurs de soluții'?",
+    "variante": [
+      "O dezbatere publică",
+      "O procedură de achiziție a unui plan/proiect selectat de un juriu",
+      "O licitație bazată pe inovație",
+      "Un târg de tehnologie"
+    ],
+    "raspunsCorect": "O procedură de achiziție a unui plan/proiect selectat de un juriu",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. j)"
+  },
+  {
+    "id": 174,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce înseamnă principiul 'transparenței'?",
+    "variante": [
+      "Publicarea bugetului total",
+      "Transmiterea live a ședințelor",
+      "Asigurarea unui grad ridicat de publicitate în toate etapele",
+      "Declararea subcontractanților"
+    ],
+    "raspunsCorect": "Asigurarea unui grad ridicat de publicitate în toate etapele",
+    "sursa": "Implicit din LEGE nr. 98 din 19 mai 2016, Art. 2, alin. (2), lit. d)"
+  },
+  {
+    "id": 175,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Cine răspunde de buna organizare a inventarierii?",
+    "variante": [
+      "Comisia de inventariere",
+      "Contabilul șef",
+      "Administratorul sau ordonatorul de credite",
+      "Gestionarul"
+    ],
+    "raspunsCorect": "Administratorul sau ordonatorul de credite",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 5"
+  },
+  {
+    "id": 176,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Unde se înscriu rezultatele inventarierii?",
+    "variante": [
+      "În balanța de verificare",
+      "În registrul-jurnal",
+      "În registrul-inventar",
+      "Într-un proces-verbal"
+    ],
+    "raspunsCorect": "În registrul-inventar",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 44, alin. (1)"
+  },
+  {
+    "id": 177,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este DUAE?",
+    "variante": [
+      "Declarația Unică de Angajament",
+      "Direcția de Avizare a Exporturilor",
+      "Documentul unic de achiziții european",
+      "Departamentul pentru Urmărirea Acordurilor"
+    ],
+    "raspunsCorect": "Documentul unic de achiziții european",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. s)"
+  },
+  {
+    "id": 178,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce se întâmplă cu garanția de bună execuție dacă valoarea contractului se suplimentează?",
+    "variante": [
+      "Nu se ia nicio măsură",
+      "Se anulează garanția",
+      "Contractantul are obligația de a o completa",
+      "Se reia licitația"
+    ],
+    "raspunsCorect": "Contractantul are obligația de a o completa",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 39, alin. (5)"
+  },
+  {
+    "id": 179,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce înseamnă 'ciclu de viață' în achiziții?",
+    "variante": [
+      "Valabilitatea ofertei",
+      "Perioada de garanție",
+      "Totalitatea etapelor de la cercetare la eliminare",
+      "Anul fiscal"
+    ],
+    "raspunsCorect": "Totalitatea etapelor de la cercetare la eliminare",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. i)"
+  },
+  {
+    "id": 180,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce se întâmplă cu criteriile de calificare din caietul de sarcini care nu sunt și în anunțul de participare?",
+    "variante": [
+      "Sunt obligatorii",
+      "Sunt considerate clauze nescrise",
+      "Sunt valabile dacă sunt acceptate",
+      "Sunt negociabile"
+    ],
+    "raspunsCorect": "Sunt considerate clauze nescrise",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 30, alin. (6)"
+  },
+  {
+    "id": 181,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Care este scopul principal al inventarierii?",
+    "variante": [
+      "Stabilirea bonusurilor",
+      "Calcularea impozitului",
+      "Stabilirea situaţiei reale a activelor pentru situațiile financiare anuale",
+      "Verificarea programului"
+    ],
+    "raspunsCorect": "Stabilirea situaţiei reale a activelor pentru situațiile financiare anuale",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 1"
+  },
+  {
+    "id": 182,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Cine NU poate face parte din comisia de inventariere?",
+    "variante": [
+      "Specialiști externi",
+      "Gestionarii și contabilii gestiunii respective",
+      "Personal tehnic",
+      "Președintele comisiei"
+    ],
+    "raspunsCorect": "Gestionarii și contabilii gestiunii respective",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 6, alin. (5)"
+  },
+  {
+    "id": 183,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Ce trebuie să primească comisia de la gestionar înainte de inventariere?",
+    "variante": [
+      "O cerere de concediu",
+      "Fișa de pontaj",
+      "O declaraţie scrisă despre situația gestiunii",
+      "Contractul de muncă"
+    ],
+    "raspunsCorect": "O declaraţie scrisă despre situația gestiunii",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 8, lit. a)"
+  },
+  {
+    "id": 184,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Cum se inventariază bunurile aparținând terților?",
+    "variante": [
+      "Se ignoră",
+      "Se inventariază și se înscriu în liste distincte",
+      "Se trec în gestiunea proprie",
+      "Se returnează înainte"
+    ],
+    "raspunsCorect": "Se inventariază și se înscriu în liste distincte",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 19, alin. (1)"
+  },
+  {
+    "id": 185,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "La ce valoare se impută lipsurile în gestiune?",
+    "variante": [
+      "Valoarea de inventar",
+      "Jumătate din prețul de achiziție",
+      "Valoarea de înlocuire",
+      "Valoarea din contabilitate"
+    ],
+    "raspunsCorect": "Valoarea de înlocuire",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 40, alin. (2)"
+  },
+  {
+    "id": 186,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Când se pot compensa lipsurile cu plusurile?",
+    "variante": [
+      "Dacă au aceeași valoare",
+      "Dacă există risc de confuzie între sorturi, în aceeași perioadă și gestiune",
+      "Cu acordul gestionarului",
+      "Niciodată"
+    ],
+    "raspunsCorect": "Dacă există risc de confuzie între sorturi, în aceeași perioadă și gestiune",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 40, alin. (3)"
+  },
+  {
+    "id": 187,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Unde se prezintă propunerile comisiei de inventariere?",
+    "variante": [
+      "Într-o notă informativă",
+      "Într-un proces-verbal privind rezultatele inventarierii",
+      "În registrul-inventar",
+      "Într-o anexă la balanță"
+    ],
+    "raspunsCorect": "Într-un proces-verbal privind rezultatele inventarierii",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 42"
+  },
+  {
+    "id": 188,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Ce este 'scoaterea din funcțiune'?",
+    "variante": [
+      "Vânzarea activelor",
+      "Repararea capitală",
+      "Scoaterea din uz în vederea casării sau valorificării",
+      "Mutarea în alt depozit"
+    ],
+    "raspunsCorect": "Scoaterea din uz în vederea casării sau valorificării",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 1, alin. (1)"
+  },
+  {
+    "id": 189,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Cine aprobă scoaterea din funcțiune a construcțiilor?",
+    "variante": [
+      "Comandantul unității",
+      "Ordonatorul secundar de credite",
+      "Ordonatorul principal de credite",
+      "Comisia de casare"
+    ],
+    "raspunsCorect": "Ordonatorul principal de credite",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 2, alin. (1), lit. b)"
+  },
+  {
+    "id": 190,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Ce este 'casarea'?",
+    "variante": [
+      "Donarea bunurilor",
+      "Demontarea, dezmembrarea sau distrugerea bunurilor scoase din funcțiune",
+      "Trecerea în rezervă",
+      "Evaluarea pentru vânzare"
+    ],
+    "raspunsCorect": "Demontarea, dezmembrarea sau distrugerea bunurilor scoase din funcțiune",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 19, alin. (1)"
+  },
+  {
+    "id": 191,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Cine NU poate fi în comisia de casare?",
+    "variante": [
+      "Personal tehnic",
+      "Gestionarii bunurilor respective",
+      "Ofițeri din alte unități",
+      "Un delegat superior"
+    ],
+    "raspunsCorect": "Gestionarii bunurilor respective",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 19, alin. (3)"
+  },
+  {
+    "id": 192,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Ce este 'declasarea' bunurilor, altele decât activele fixe?",
+    "variante": [
+      "Schimbarea denumirii",
+      "Scoaterea din uz în vederea casării sau valorificării",
+      "O metodă de inventariere",
+      "O reevaluare"
+    ],
+    "raspunsCorect": "Scoaterea din uz în vederea casării sau valorificării",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 15, alin. (1)"
+  },
+  {
+    "id": 193,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Când poate fi scos din funcțiune un activ fix cu durata de funcționare neîndeplinită?",
+    "variante": [
+      "Oricând",
+      "La schimbarea guvernului",
+      "Când are un grad de uzură morală avansată",
+      "Pentru a fi vândut"
+    ],
+    "raspunsCorect": "Când are un grad de uzură morală avansată",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 9, alin. (1), lit. c)"
+  },
+  {
+    "id": 194,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Cum se face, de regulă, hrănirea personalului din apărare?",
+    "variante": [
+      "Prin tichete de masă",
+      "Prin bani cash",
+      "În natură, în limita unor norme de hrană zilnice",
+      "Pe cont propriu"
+    ],
+    "raspunsCorect": "În natură, în limita unor norme de hrană zilnice",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 2, alin. (1)"
+  },
+  {
+    "id": 195,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Ce primește personalul care nu beneficiază de alimente, deși are dreptul?",
+    "variante": [
+      "Nicio compensație",
+      "O zi de permisie",
+      "Valoarea financiară neimpozitabilă a normei de hrană",
+      "Alimente dublu luna viitoare"
+    ],
+    "raspunsCorect": "Valoarea financiară neimpozitabilă a normei de hrană",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 4, alin. (4)"
+  },
+  {
+    "id": 196,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Ce obligație au instituțiile de apărare pentru situații neprevăzute?",
+    "variante": [
+      "Contracte cu restaurante",
+      "Să constituie un stoc de siguranță de alimente pentru 30 de zile",
+      "Rezerve de hrană pentru 3 zile",
+      "Să se bazeze pe donații"
+    ],
+    "raspunsCorect": "Să constituie un stoc de siguranță de alimente pentru 30 de zile",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 8, alin. (1)"
+  },
+  {
+    "id": 197,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "În ce scop pot unitățile militare înființa 'gospodării agrozootehnice'?",
+    "variante": [
+      "Pentru profit",
+      "Pentru consum propriu și reluarea producției",
+      "Pentru animale de companie",
+      "Pentru a oferi locuri de muncă"
+    ],
+    "raspunsCorect": "Pentru consum propriu și reluarea producției",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 10, alin. (3)"
+  },
+  {
+    "id": 198,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Cine stabilește și actualizează valoarea financiară a normelor de hrană?",
+    "variante": [
+      "Fiecare unitate",
+      "Ministerul Finanțelor",
+      "MApN împreună cu celelalte instituții din sectorul de apărare",
+      "Guvernul, anual"
+    ],
+    "raspunsCorect": "MApN împreună cu celelalte instituții din sectorul de apărare",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 5, alin. (1)"
+  },
+  {
+    "id": 199,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Cine NU poate fi gestionar?",
+    "variante": [
+      "O persoană de 25 de ani",
+      "O persoană cu studii medii",
+      "O persoană condamnată pentru delapidare, chiar dacă a fost grațiată",
+      "Un fost angajat la stat"
+    ],
+    "raspunsCorect": "O persoană condamnată pentru delapidare, chiar dacă a fost grațiată",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 5, alin. (1)"
+  },
+  {
+    "id": 200,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce obligație are un gestionar la numirea în funcție?",
+    "variante": [
+      "Să locuiască în unitate",
+      "Să constituie o garanție în numerar",
+      "Să facă un curs anual",
+      "Să fie subofițer"
+    ],
+    "raspunsCorect": "Să constituie o garanție în numerar",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 8, alin. (1)"
+  },
+  {
+    "id": 201,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce operațiune este obligatorie la orice predare-primire a gestiunii?",
+    "variante": [
+      "Inspecție de mediu",
+      "Slujbă religioasă",
+      "Inventarierea gestiunii",
+      "Ședință foto"
+    ],
+    "raspunsCorect": "Inventarierea gestiunii",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 26, alin. (1)"
+  },
+  {
+    "id": 202,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce drept has gestionarul dacă bunurile primite nu corespund cu documentele?",
+    "variante": [
+      "Să le trimită înapoi",
+      "Să solicite constituirea comisiei de recepţie",
+      "Să raporteze verbal",
+      "Să modifice documentele"
+    ],
+    "raspunsCorect": "Să solicite constituirea comisiei de recepţie",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 35, alin. (1), lit. b)"
+  },
+  {
+    "id": 203,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce este interzis gestionarului?",
+    "variante": [
+      "Să ceară ajutor la manipulare",
+      "Să distribuie bunuri pe bază de dispoziţii verbale",
+      "Să încuie depozitul",
+      "Să verifice calitatea"
+    ],
+    "raspunsCorect": "Să distribuie bunuri pe bază de dispoziţii verbale",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 43, lit. b)"
+  },
+  {
+    "id": 204,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce face gestionarul când constată plusuri sau minusuri în gestiune?",
+    "variante": [
+      "Așteaptă inventarul anual",
+      "Raportează imediat, în scris, comandantului",
+      "Le compensează singur",
+      "Le ignoră"
+    ],
+    "raspunsCorect": "Raportează imediat, în scris, comandantului",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 40"
+  },
+  {
+    "id": 205,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce se întâmplă dacă gestionarul a produs o pagubă?",
+    "variante": [
+      "Paguba e acoperită de unitate",
+      "Primește avertisment",
+      "Se folosește garanţia în numerar pentru acoperirea pagubei",
+      "Lucrează ore suplimentare"
+    ],
+    "raspunsCorect": "Se folosește garanţia în numerar pentru acoperirea pagubei",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 14, alin. (1)"
+  },
+  {
+    "id": 206,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este un 'operator economic'?",
+    "variante": [
+      "Doar o firmă privată",
+      "Doar o companie de stat",
+      "Orice persoană fizică/juridică, publică/privată, care oferă licit pe piață produse, servicii sau lucrări",
+      "Doar o PFA"
+    ],
+    "raspunsCorect": "Orice persoană fizică/juridică, publică/privată, care oferă licit pe piață produse, servicii sau lucrări",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. jj)"
+  },
+  {
+    "id": 207,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce se înțelege prin 'ofertă'?",
+    "variante": [
+      "Doar prețul",
+      "Doar partea tehnică",
+      "Actul juridic cu propunerea tehnică și financiară prin care un operator economic se angajează la un contract",
+      "O discuție preliminară"
+    ],
+    "raspunsCorect": "Actul juridic cu propunerea tehnică și financiară prin care un operator economic se angajează la un contract",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. hh)"
+  },
+  {
+    "id": 208,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care este o obligație principală a compartimentului de achiziții?",
+    "variante": [
+      "Să facă doar achiziții directe",
+      "Să elaboreze și să actualizeze programul anual al achizițiilor publice",
+      "Să aprobe bugetul",
+      "Să facă plățile"
+    ],
+    "raspunsCorect": "Să elaboreze și să actualizeze programul anual al achizițiilor publice",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 2, alin. (3), lit. b)"
+  },
+  {
+    "id": 209,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care criteriu de atribuire NU este prevăzut explicit în HG 395/2016?",
+    "variante": [
+      "Cel mai bun raport calitate-preț",
+      "Costul cel mai scăzut",
+      "Prețul cel mai scăzut",
+      "Cel mai rapid termen de livrare"
+    ],
+    "raspunsCorect": "Cel mai rapid termen de livrare",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 32, 33, 34"
+  },
+  {
+    "id": 210,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Ce face comisia dacă gestionarul are obiecții la inventariere?",
+    "variante": [
+      "Le ignoră",
+      "Anulează inventarierea",
+      "Este obligată să le analizeze și să consemneze concluziile",
+      "Îl sancționează pe gestionar"
+    ],
+    "raspunsCorect": "Este obligată să le analizeze și să consemneze concluziile",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 33"
+  },
+  {
+    "id": 211,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Cât timp poate înlocui o persoană un gestionar care lipsește, fără predare-primire?",
+    "variante": [
+      "Nedeterminat",
+      "7 zile",
+      "Maximum 60 de zile",
+      "6 luni"
+    ],
+    "raspunsCorect": "Maximum 60 de zile",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 36, alin. (2)"
+  },
+  {
+    "id": 212,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce obligație are contabilul-șef față de un nou gestionar?",
+    "variante": [
+      "Să-i verifice cazierul",
+      "Să-i înmâneze o fișă cu specimene de semnături autorizate",
+      "Să-i ofere un bonus",
+      "Să-i prezinte un raport de control"
+    ],
+    "raspunsCorect": "Să-i înmâneze o fișă cu specimene de semnături autorizate",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 34"
+  },
+  {
+    "id": 213,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Cine are acces în depozite, pe lângă șefii direcți?",
+    "variante": [
+      "Orice militar",
+      "Doar eșalonul superior",
+      "Persoanele împuternicite în scris de comandant pentru controale",
+      "Presa, la cerere"
+    ],
+    "raspunsCorect": "Persoanele împuternicite în scris de comandant pentru controale",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 45, alin. (1), lit. c)"
+  },
+  {
+    "id": 214,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "În ce termen se execută casarea după primirea aprobărilor?",
+    "variante": [
+      "90 zile lucrătoare",
+      "20 de zile lucrătoare",
+      "6 luni",
+      "Fără termen"
+    ],
+    "raspunsCorect": "20 de zile lucrătoare",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 19, alin. (8)"
+  },
+  {
+    "id": 215,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "În ce scop se pot utiliza produsele din gospodăriile agrozootehnice?",
+    "variante": [
+      "Doar pentru vânzare",
+      "Până la 5% pot fi folosite pentru îmbunătățirea hranei peste norme",
+      "Doar pentru hrana animalelor",
+      "Trebuie donate"
+    ],
+    "raspunsCorect": "Până la 5% pot fi folosite pentru îmbunătățirea hranei peste norme",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 10, alin. (3)"
+  },
+  {
+    "id": 216,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "În ce condiții pot cadrele din mediul rural primi produse din depozitele unității?",
+    "variante": [
+      "Gratuit",
+      "Doar ofițerii",
+      "Contra cost, la prețul de achiziție, în limita normelor",
+      "Nu au acest drept"
+    ],
+    "raspunsCorect": "Contra cost, la prețul de achiziție, în limita normelor",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 7"
+  },
+  {
+    "id": 217,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Ce se întâmplă cu valoarea financiară a normelor de hrană la o inflație de peste 5%?",
+    "variante": [
+      "Rămâne neschimbată",
+      "Se reduce automat",
+      "Se actualizează periodic pe baza indicilor prețurilor de consum",
+      "Se suspendă acordarea"
+    ],
+    "raspunsCorect": "Se actualizează periodic pe baza indicilor prețurilor de consum",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 5, alin. (2)"
+  },
+  {
+    "id": 218,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care este o atribuție a compartimentelor de specialitate în procesul de achiziție?",
+    "variante": [
+      "Să semneze contractul",
+      "Să elaboreze caietul de sarcini",
+      "Să transmită referatele de necesitate și specificațiile tehnice",
+      "Să publice anunțul în SEAP"
+    ],
+    "raspunsCorect": "Să transmită referatele de necesitate și specificațiile tehnice",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 2, alin. (5), lit. a) și b)"
+  },
+  {
+    "id": 219,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Cum se procedează cu bunurile perisabile în timpul inventarierii?",
+    "variante": [
+      "Sunt blocate",
+      "Sunt inventariate cu prioritate, fără a stânjeni consumul/vânzarea",
+      "Sunt scoase din gestiune",
+      "Nu se inventariază"
+    ],
+    "raspunsCorect": "Sunt inventariate cu prioritate, fără a stânjeni consumul/vânzarea",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 17"
+  },
+  {
+    "id": 220,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Ce se întâmplă cu bunurile rezultate în urma casării?",
+    "variante": [
+      "Sunt repuse în funcțiune",
+      "Sunt vândute angajaților",
+      "Sunt evaluate și consemnate în procesul-verbal de casare",
+      "Sunt aruncate fără evaluare"
+    ],
+    "raspunsCorect": "Sunt evaluate și consemnate în procesul-verbal de casare",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 20"
+  },
+  {
+    "id": 221,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În afara de misiune, ce altă excepție permite participarea cadrelor militare la mitinguri?",
+    "variante": [
+      "Dacă sunt în timpul liber",
+      "Dacă au aprobarea comandantului",
+      "La cele cu caracter comemorativ-religios",
+      "Nu există alte excepții"
+    ],
+    "raspunsCorect": "La cele cu caracter comemorativ-religios",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 29, alin. (2)"
+  },
+  {
+    "id": 222,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "În subordinea cui se află Statul Major al Apărării?",
+    "variante": [
+      "Direct în subordinea Președintelui",
+      "Direct în subordinea ministrului apărării naționale",
+      "În subordinea Guvernului",
+      "Este o structură autonomă"
+    ],
+    "raspunsCorect": "Direct în subordinea ministrului apărării naționale",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 12, alin. (1)"
+  },
+  {
+    "id": 223,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Ce înseamnă principiul 'suficienței' în logistică?",
+    "variante": [
+      "Asigurarea doar a minimului necesar pentru supraviețuire",
+      "Asigurarea tuturor resurselor cerute, fără limită",
+      "Asigurarea resurselor esențiale la standarde minime acceptate pentru îndeplinirea misiunii",
+      "Crearea de stocuri cât mai mari posibil"
+    ],
+    "raspunsCorect": "Asigurarea resurselor esențiale la standarde minime acceptate pentru îndeplinirea misiunii",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. d)"
+  },
+  {
+    "id": 224,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce obligație are autoritatea contractantă dacă primește o ofertă cu un preț neobișnuit de scăzut?",
+    "variante": [
+      "Să o accepte imediat pentru a economisi bani",
+      "Să o respingă pe loc, fără explicații",
+      "Să solicite ofertantului clarificări și justificări ale prețului propus",
+      "Să anunțe Consiliul Concurenței"
+    ],
+    "raspunsCorect": "Să solicite ofertantului clarificări și justificări ale prețului propus",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 210, alin. (1)"
+  },
+  {
+    "id": 225,
+    "categorie": "Constituția României",
+    "intrebare": "Ce organ al statului este responsabil pentru aplicarea strategiei de apărare a țării?",
+    "variante": [
+      "Parlamentul",
+      "Președintele României",
+      "Guvernul",
+      "Consiliul Suprem de Apărare a Țării"
+    ],
+    "raspunsCorect": "Guvernul",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 102, alin. (1)"
+  },
+  {
+    "id": 226,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Pregătirea economiei naționale pentru apărare este o responsabilitate a:",
+    "variante": [
+      "Ministerului Apărării Naționale exclusiv",
+      "Guvernului, ministerelor și autorităților publice",
+      "Băncii Naționale a României",
+      "Agenților economici privați"
+    ],
+    "raspunsCorect": "Guvernului, ministerelor și autorităților publice",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 20"
+  },
+  {
+    "id": 227,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Pe ce document se semnează de către gestionar pentru primirea-predarea magaziei la începerea inventarierii?",
+    "variante": [
+      "Pe procesul-verbal de inventariere",
+      "Pe ultima filă a registrului de gestiune",
+      "Pe o declarație separată",
+      "Pe listele de inventariere"
+    ],
+    "raspunsCorect": "Pe listele de inventariere",
+    "sursa": "NORME din 9 octombrie 2009 privind inventarierea, Pct. 15"
+  },
+  {
+    "id": 228,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce conține dosarul achiziției publice?",
+    "variante": [
+      "Doar contractul semnat",
+      "Doar ofertele primite",
+      "Toate documentele întocmite în cadrul procesului de atribuire",
+      "Facturile și chitanțele"
+    ],
+    "raspunsCorect": "Toate documentele întocmite în cadrul procesului de atribuire",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 7"
+  },
+  {
+    "id": 229,
+    "categorie": "Regulament Logistica - Aprovizionare",
+    "intrebare": "Ce include Clasa a III-a de materiale, conform regulamentului?",
+    "variante": [
+      "Echipament de birou",
+      "Piese de schimb pentru tehnică",
+      "Carburanți, lubrifianți, lichide hidraulice și antigel",
+      "Materiale medicale"
+    ],
+    "raspunsCorect": "Carburanți, lubrifianți, lichide hidraulice și antigel",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 31, lit. c)"
+  },
+  {
+    "id": 230,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce obligație are un cadru militar în activitate dacă dorește să călătorească în străinătate?",
+    "variante": [
+      "Nu are nicio obligație specială",
+      "Să informeze verbal comandantul",
+      "Să obțină aprobarea autorităților competente, conform regulamentelor militare",
+      "Să depună o cerere la Ministerul de Externe"
+    ],
+    "raspunsCorect": "Să obțină aprobarea autorităților competente, conform regulamentelor militare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 31"
+  },
+  {
+    "id": 231,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce structură din cadrul MApN este responsabilă pentru managementul resurselor umane?",
+    "variante": [
+      "Statul Major al Apărării",
+      "Departamentul pentru Armamente",
+      "Direcția Generală Financiar-Contabilă",
+      "Direcția generală management resurse umane"
+    ],
+    "raspunsCorect": "Direcția generală management resurse umane",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 18"
+  },
+  {
+    "id": 232,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce se întocmește în cazul în care gestionarul absentează pe o perioadă mai mare de 60 de zile?",
+    "variante": [
+      "O notă informativă",
+      "Un proces-verbal de predare-primire a gestiunii",
+      "Se sigilează gestiunea până la revenirea sa",
+      "Se desemnează un înlocuitor verbal"
+    ],
+    "raspunsCorect": "Un proces-verbal de predare-primire a gestiunii",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 25"
+  },
+  {
+    "id": 233,
+    "categorie": "Ordonanța 26/1994 - Drepturi de Hrană",
+    "intrebare": "Cine beneficiază de normele de hrană suplimentare?",
+    "variante": [
+      "Tot personalul, fără deosebire",
+      "Personalul care desfășoară activități în condiții deosebite (zbor, scufundări, etc.)",
+      "Doar ofițerii superiori",
+      "Personalul din birouri"
+    ],
+    "raspunsCorect": "Personalul care desfășoară activități în condiții deosebite (zbor, scufundări, etc.)",
+    "sursa": "ORDONANȚĂ nr. 26 din 22 iulie 1994, Art. 3"
+  },
+  {
+    "id": 234,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu un cadru militar care este declarat 'inapt pentru serviciul militar' de către comisiile de expertiză medicală?",
+    "variante": [
+      "Este mutat la o muncă de birou",
+      "Este trimis în concediu medical pe termen nelimitat",
+      "Este trecut în rezervă sau direct în retragere",
+      "Este obligat să urmeze un tratament și să revină"
+    ],
+    "raspunsCorect": "Este trecut în rezervă sau direct în retragere",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 85, alin. (1), lit. b)"
+  },
+  {
+    "id": 235,
+    "categorie": "Constituția României",
+    "intrebare": "În fața cui răspunde Guvernul pentru întreaga sa activitate?",
+    "variante": [
+      "În fața Președintelui României",
+      "În fața Curții Constituționale",
+      "În fața Parlamentului",
+      "În fața poporului, prin referendum"
+    ],
+    "raspunsCorect": "În fața Parlamentului",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 108, alin. (1)"
+  },
+  {
+    "id": 236,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce reprezintă 'criteriul de atribuire' într-o procedură de achiziție publică?",
+    "variante": [
+      "Termenul limită de depunere a ofertelor",
+      "Locul de desfășurare a licitației",
+      "Ansamblul elementelor pe baza cărora se stabilește oferta câștigătoare",
+      "Valoarea garanției de participare"
+    ],
+    "raspunsCorect": "Ansamblul elementelor pe baza cărora se stabilește oferta câștigătoare",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. p)"
+  },
+  {
+    "id": 237,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Bunurile complet amortizate, cu o valoare de intrare de sub 2.500 lei, pot fi scoase din funcțiune prin aprobarea:",
+    "variante": [
+      "Ministrului Apărării",
+      "Șefului Statului Major",
+      "Conducătorului instituției publice (comandantului unității)",
+      "Gestionarului responsabil"
+    ],
+    "raspunsCorect": "Conducătorului instituției publice (comandantului unității)",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 2, alin. (2)"
+  },
+  {
+    "id": 238,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Ce reprezintă 'mentenanța' în context logistic?",
+    "variante": [
+      "Achiziția de tehnică nouă",
+      "Totalitatea activităților pentru menținerea sau restabilirea stării de funcționare a unui produs",
+      "Instruirea personalului tehnic",
+      "Casarea echipamentelor vechi"
+    ],
+    "raspunsCorect": "Totalitatea activităților pentru menținerea sau restabilirea stării de funcționare a unui produs",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 45"
+  },
+  {
+    "id": 239,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce se înțelege prin 'pregătirea teritoriului pentru apărare'?",
+    "variante": [
+      "Doar construirea de fortificații",
+      "Ansamblul de lucrări și măsuri pentru asigurarea desfășurării acțiunilor militare",
+      "Evacuarea populației civile",
+      "Antrenarea gărzilor patriotice"
+    ],
+    "raspunsCorect": "Ansamblul de lucrări și măsuri pentru asigurarea desfășurării acțiunilor militare",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 20"
+  },
+  {
+    "id": 240,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este primul grad de ofițer acordat la absolvirea unei instituții de învățământ militar?",
+    "variante": [
+      "Locotenent",
+      "Sublocotenent",
+      "Căpitan",
+      "Maistru militar clasa a V-a"
+    ],
+    "raspunsCorect": "Sublocotenent",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 48"
+  },
+  {
+    "id": 241,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Care este componenta logisticii ce se ocupă cu cererea, recepția, depozitarea și transportul bunurilor la trupe?",
+    "variante": [
+      "Logistica de producție",
+      "Logistica de consum (logistica trupelor)",
+      "Logistica multinațională",
+      "Logistica prin cooperare"
+    ],
+    "raspunsCorect": "Logistica de consum (logistica trupelor)",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 3"
+  },
+  {
+    "id": 242,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Ce reprezintă logistica multinațională?",
+    "variante": [
+      "Achiziția de tehnică din alte țări",
+      "Folosirea exclusivă a serviciilor de curierat internațional",
+      "Sprijinul logistic asigurat prin cooperarea structurilor naționale cu cele ale forțelor multinaționale",
+      "Un acord de liber schimb pentru produse militare"
+    ],
+    "raspunsCorect": "Sprijinul logistic asigurat prin cooperarea structurilor naționale cu cele ale forțelor multinaționale",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 5"
+  },
+  {
+    "id": 243,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Care dintre următoarele NU este un domeniu funcțional al logisticii trupelor?",
+    "variante": [
+      "Mentenanța",
+      "Sprijinul medical",
+      "Contractarea",
+      "Planificarea tactică a ofensivei"
+    ],
+    "raspunsCorect": "Planificarea tactică a ofensivei",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 8"
+  },
+  {
+    "id": 244,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Ce document stă la baza organizării logisticii trupelor?",
+    "variante": [
+      "Ordinul de zi pe unitate",
+      "Decizia personală a șefului de logistică",
+      "Regulamentul de ordine interioară",
+      "Ordinul de sprijin logistic al eșalonului superior"
+    ],
+    "raspunsCorect": "Ordinul de sprijin logistic al eșalonului superior",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 9"
+  },
+  {
+    "id": 245,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Ce conferă principiul 'autorității' comandanților structurilor operaționale?",
+    "variante": [
+      "Dreptul de a modifica unilateral contractele",
+      "Drepturi depline asupra resurselor logistice din zona lor de responsabilitate",
+      "Autoritatea de a anula ordinele eșalonului superior",
+      "Dreptul de a refuza sprijinul logistic"
+    ],
+    "raspunsCorect": "Drepturi depline asupra resurselor logistice din zona lor de responsabilitate",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. b)"
+  },
+  {
+    "id": 246,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Principiul 'cooperării' în logistică vizează:",
+    "variante": [
+      "Competiția între structurile logistice",
+      "Conjugarea tuturor eforturilor pentru realizarea sprijinului logistic adecvat",
+      "Externalizarea completă a serviciilor logistice",
+      "Cooperarea doar cu entități civile"
+    ],
+    "raspunsCorect": "Conjugarea tuturor eforturilor pentru realizarea sprijinului logistic adecvat",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. d)"
+  },
+  {
+    "id": 247,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Ce presupune principiul 'vizibilității' în logistică?",
+    "variante": [
+      "Marcarea vizibilă a tuturor vehiculelor logistice",
+      "Efectuarea de inspecții vizuale zilnice",
+      "Publicarea rapoartelor logistice în presă",
+      "Cunoașterea și schimbul de informații privind disponibilitatea și sprijinul logistic al forțelor"
+    ],
+    "raspunsCorect": "Cunoașterea și schimbul de informații privind disponibilitatea și sprijinul logistic al forțelor",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. h)"
+  },
+  {
+    "id": 248,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Principiul 'promptitudinii' se referă la realizarea sprijinului logistic:",
+    "variante": [
+      "Cât mai ieftin posibil",
+      "Cu o planificare pe termen lung",
+      "La locul potrivit și în timp oportun",
+      "Folosind tehnologie de ultimă generație"
+    ],
+    "raspunsCorect": "La locul potrivit și în timp oportun",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. k)"
+  },
+  {
+    "id": 249,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Totalitatea activităților desfășurate pe baza înțelegerilor bilaterale și multilaterale pentru a optimiza suportul logistic se numește:",
+    "variante": [
+      "Logistică de consum",
+      "Logistică de producție",
+      "Logistică prin cooperare",
+      "Sprijin logistic"
+    ],
+    "raspunsCorect": "Logistică prin cooperare",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 4"
+  },
+  {
+    "id": 250,
+    "categorie": "Regulament Logistica - Noțiuni Fundamentale",
+    "intrebare": "Cercetarea, proiectarea, dezvoltarea și achiziția de tehnică și bunuri materiale fac parte din:",
+    "variante": [
+      "Logistica de producție/achiziție",
+      "Mentenanță",
+      "Serviciile de campanie",
+      "Sprijinul națiunii-gazdă"
+    ],
+    "raspunsCorect": "Logistica de producție/achiziție",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 2"
+  },
+  {
+    "id": 251,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Conform principiului 'suficienței', nicio operație nu va fi inițiată fără:",
+    "variante": [
+      "Aprobarea tuturor aliaților",
+      "Existența la dispoziție a cantităților minime esențiale destinate sprijinului",
+      "Un excedent de 50% al resurselor",
+      "Semnarea unui contract de asigurare"
+    ],
+    "raspunsCorect": "Existența la dispoziție a cantităților minime esențiale destinate sprijinului",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. l)"
+  },
+  {
+    "id": 252,
+    "categorie": "Regulament Logistica - Principii",
+    "intrebare": "Capacitatea de dislocare/redislocare în timp scurt, concomitent cu realizarea sprijinului logistic, definește principiul:",
+    "variante": [
+      "Economiei",
+      "Previziunii",
+      "Simplității",
+      "Mobilității"
+    ],
+    "raspunsCorect": "Mobilității",
+    "sursa": "REGULAMENTUL din 17 aprilie 2008 logisticii operațiilor întrunite, Art. 12, lit. i)"
+  },
+  {
+    "id": 253,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Conform legii, ce calitate au ofițerii, maiștrii militari și subofițerii în exercitarea atribuțiilor legale?",
+    "variante": [
+      "De funcționari publici cu statut special",
+      "De angajați contractuali ai statului",
+      "Sunt investiți cu exercițiul autorității publice",
+      "De personal civil cu atribuții militare"
+    ],
+    "raspunsCorect": "Sunt investiți cu exercițiul autorității publice",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 6, alin. (1)"
+  },
+  {
+    "id": 254,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Pe ce perioadă încheie un contract cu MApN un candidat admis la o instituție de formare a ofițerilor?",
+    "variante": [
+      "5 ani de la numirea în funcție",
+      "8 ani de la numirea în prima funcție",
+      "10 ani de la absolvire",
+      "Pe o perioadă nedeterminată"
+    ],
+    "raspunsCorect": "8 ani de la numirea în prima funcție",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 41^1, alin. (1)"
+  },
+  {
+    "id": 255,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu un cadru militar în activitate care este trimis în judecată în stare de libertate?",
+    "variante": [
+      "Este trecut direct în rezervă",
+      "Este suspendat din funcție fără niciun drept",
+      "Se pune la dispoziție, îndeplinind atribuții stabilite de comandant",
+      "Intră automat în concediu medical"
+    ],
+    "raspunsCorect": "Se pune la dispoziție, îndeplinind atribuții stabilite de comandant",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 89, alin. (5) și (6)"
+  },
+  {
+    "id": 256,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care este durata maximă a unui concediu fără plată pe care îl poate solicita un cadru militar pentru a-și urma soțul/soția într-o misiune permanentă în străinătate?",
+    "variante": [
+      "1 an",
+      "2 ani",
+      "4 ani",
+      "Nelimitat"
+    ],
+    "raspunsCorect": "4 ani",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 14^1, alin. (1)"
+  },
+  {
+    "id": 257,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce document stă la baza evoluției în carieră pentru cadrele militare din MApN?",
+    "variante": [
+      "Fișa postului",
+      "Ordinul de zi pe unitate",
+      "Ghidul carierei militare",
+      "Regulamentul de ordine interioară"
+    ],
+    "raspunsCorect": "Ghidul carierei militare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 5, alin. (2)"
+  },
+  {
+    "id": 258,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În ce situație un cadru militar este obligat să restituie cheltuielile de școlarizare?",
+    "variante": [
+      "La trecerea în rezervă la limită de vârstă",
+      "Dacă este mutat în interesul serviciului",
+      "Dacă demisionează înainte de expirarea contractului inițial",
+      "La absolvirea unui curs de perfecționare"
+    ],
+    "raspunsCorect": "Dacă demisionează înainte de expirarea contractului inițial",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 41^1, alin. (10)"
+  },
+  {
+    "id": 259,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce calificativ minim trebuie să obțină un cadru militar în aprecierea de serviciu pentru a putea fi înaintat în grad la termen?",
+    "variante": [
+      "Bun",
+      "Foarte Bun",
+      "Excepțional",
+      "Corespunzător"
+    ],
+    "raspunsCorect": "Corespunzător",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 54, alin. (1), lit. b)"
+  },
+  {
+    "id": 260,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se poate acorda post-mortem unui subofițer care și-a sacrificat viața săvârșind acte de devotament excepțional?",
+    "variante": [
+      "O indemnizație specială pentru familie",
+      "Gradul de maistru militar clasa a V-a",
+      "Gradul de sublocotenent",
+      "O decorație și atât"
+    ],
+    "raspunsCorect": "Gradul de sublocotenent",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 68, alin. (2)"
+  },
+  {
+    "id": 261,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În ce situație NU se poate pierde gradul militar?",
+    "variante": [
+      "Prin hotărâre judecătorească de condamnare",
+      "Prin demisie",
+      "Prin hotărârea unui consiliu de onoare",
+      "Gradul de ofițer, maistru militar și subofițer nu se poate pierde"
+    ],
+    "raspunsCorect": "Gradul de ofițer, maistru militar și subofițer nu se poate pierde",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 3, alin. (2)"
+  },
+  {
+    "id": 262,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Un cadru militar poate fi numit într-o funcție inferioară gradului său în cazul în care este sancționat cu:",
+    "variante": [
+      "Mustrare scrisă",
+      "Diminuarea soldei",
+      "Retrogradarea în funcție",
+      "Amânarea înaintării în grad"
+    ],
+    "raspunsCorect": "Retrogradarea în funcție",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 81, alin. (1), lit. c)"
+  },
+  {
+    "id": 263,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept au cadrele militare în activitate, anual, pentru a-și dezvolta cariera?",
+    "variante": [
+      "Un bonus salarial de performanță",
+      "O săptămână de vacanță în plus",
+      "Un concediu pentru formare profesională, plătit, de până la 15 zile lucrătoare",
+      "Dreptul de a refuza o misiune"
+    ],
+    "raspunsCorect": "Un concediu pentru formare profesională, plătit, de până la 15 zile lucrătoare",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 14^3, alin. (1)"
+  },
+  {
+    "id": 264,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Cine stabilește metodologia de întocmire a aprecierilor de serviciu?",
+    "variante": [
+      "Comandantul de unitate",
+      "Parlamentul României",
+      "Prin ordin al ministrului apărării naționale",
+      "Consiliul Suprem de Apărare a Țării"
+    ],
+    "raspunsCorect": "Prin ordin al ministrului apărării naționale",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 73, alin. (5)"
+  },
+  {
+    "id": 265,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu un cadru militar a cărui soție/soț întrerupe activitatea profesională din cauza mutării în altă garnizoană?",
+    "variante": [
+      "Nu beneficiază de niciun sprijin",
+      "Primește o funcție în aceeași unitate militară",
+      "Are dreptul la o indemnizație lunară timp de maximum 9 luni",
+      "Primește o sumă compensatorie unică"
+    ],
+    "raspunsCorect": "Are dreptul la o indemnizație lunară timp de maximum 9 luni",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 20^1, alin. (4)"
+  },
+  {
+    "id": 266,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Înaintarea în gradul de maior/locotenent-comandor, la termen, este condiționată, printre altele, de absolvirea unui:",
+    "variante": [
+      "Curs de limbi străine",
+      "Curs de stat major/similar",
+      "Curs de prim ajutor",
+      "Program de masterat civil"
+    ],
+    "raspunsCorect": "Curs de stat major/similar",
+    "sursa": "HG nr. 106/2011 (Ghidul carierei militare), Art. 13"
+  },
+  {
+    "id": 267,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu cadrele militare pe timpul stării de război?",
+    "variante": [
+      "Primesc automat gradul următor",
+      "Concediile și permisiile se întrerup",
+      "Sunt trecute în rezervă pentru a proteja personalul specializat",
+      "Programul de lucru se reduce la 6 ore"
+    ],
+    "raspunsCorect": "Concediile și permisiile se întrerup",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 19, alin. (3)"
+  },
+  {
+    "id": 268,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Trecerea unui maistru militar în corpul ofițerilor se poate face dacă acesta este, printre altele:",
+    "variante": [
+      "Recomandat de comandant",
+      "Absolvent de liceu militar",
+      "Absolvent cu diplomă de licență al unei instituții de învățământ superior",
+      "Are o vechime de cel puțin 25 de ani"
+    ],
+    "raspunsCorect": "Absolvent cu diplomă de licență al unei instituții de învățământ superior",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 36, alin. (1), lit. e)"
+  },
+  {
+    "id": 269,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Care dintre următoarele este considerată cea mai aspră sancțiune disciplinară?",
+    "variante": [
+      "Mustrare scrisă",
+      "Retrogradarea în funcție",
+      "Amânarea înaintării în grad pe timp de 2 ani",
+      "Trecerea în rezervă"
+    ],
+    "raspunsCorect": "Trecerea în rezervă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35, alin. (1), lit. g)"
+  },
+  {
+    "id": 270,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Pentru ce perioadă este numit, de regulă, un președinte de consiliu de onoare?",
+    "variante": [
+      "1 an",
+      "2 ani",
+      "4 ani",
+      "Pe durata mandatului comandantului"
+    ],
+    "raspunsCorect": "2 ani",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 35^8, alin. (2)"
+  },
+  {
+    "id": 271,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept NU are un cadru militar în activitate?",
+    "variante": [
+      "Dreptul la soldă lunară",
+      "Dreptul la asistență medicală gratuită",
+      "Dreptul de a declara sau de a participa la grevă",
+      "Dreptul la concediu de odihnă"
+    ],
+    "raspunsCorect": "Dreptul de a declara sau de a participa la grevă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 28, lit. c)"
+  },
+  {
+    "id": 272,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "În ce situație se suspendă din funcție un cadru militar?",
+    "variante": [
+      "Când este trimis la un curs de lungă durată",
+      "Când este în concediu medical mai mult de 30 de zile",
+      "Când este în stare de arest preventiv",
+      "Când este propus pentru o funcție superioară"
+    ],
+    "raspunsCorect": "Când este în stare de arest preventiv",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 89, alin. (2)"
+  },
+  {
+    "id": 273,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Care este scopul principal al Legii nr. 98/2016 privind achizițiile publice?",
+    "variante": [
+      "Maximizarea profitului autorității contractante",
+      "Asigurarea transparenței totale a cheltuielilor guvernamentale",
+      "Achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială",
+      "Simplificarea procedurilor de import-export pentru stat"
+    ],
+    "raspunsCorect": "Achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 2, alin. (1)"
+  },
+  {
+    "id": 274,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce reprezintă CPV în contextul achizițiilor publice?",
+    "variante": [
+      "Comisia de Prevenire a Viciilor de procedură",
+      "Contract Public de Valoare",
+      "Nomenclatorul de referință (Vocabularul comun privind achizițiile publice)",
+      "Costul Per Variantă de ofertă"
+    ],
+    "raspunsCorect": "Nomenclatorul de referință (Vocabularul comun privind achizițiile publice)",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. r)"
+  },
+  {
+    "id": 275,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce document stă la baza elaborării Programului Anual al Achizițiilor Publice (PAAP)?",
+    "variante": [
+      "Strategia de contractare",
+      "Caietul de sarcini",
+      "Referatele de necesitate transmise de compartimente",
+      "Facturile din anul precedent"
+    ],
+    "raspunsCorect": "Referatele de necesitate transmise de compartimente",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 12, alin. (2)"
+  },
+  {
+    "id": 276,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "În ce situație autoritatea contractantă are obligația de a reține garanția de participare a unui ofertant?",
+    "variante": [
+      "Dacă ofertantul solicită clarificări",
+      "Dacă prețul ofertei este prea mare",
+      "Dacă ofertantul își retrage oferta în perioada de valabilitate a acesteia",
+      "Dacă ofertantul nu câștigă procedura"
+    ],
+    "raspunsCorect": "Dacă ofertantul își retrage oferta în perioada de valabilitate a acesteia",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 37, alin. (1), lit. a)"
+  },
+  {
+    "id": 277,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce este un 'lot' în contextul unei achiziții publice?",
+    "variante": [
+      "Un pachet de acțiuni la o firmă de construcții",
+      "Fiecare parte din obiectul contractului, divizat pentru a adapta dimensiunea",
+      "Grupul de ofertanți care participă la o licitație",
+      "Depozitul unde se stochează bunurile achiziționate"
+    ],
+    "raspunsCorect": "Fiecare parte din obiectul contractului, divizat pentru a adapta dimensiunea",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. dd)"
+  },
+  {
+    "id": 278,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Care este termenul în care se constituie garanția de bună execuție, de regulă?",
+    "variante": [
+      "Înainte de depunerea ofertei",
+      "În 5 zile lucrătoare de la data semnării contractului",
+      "La 30 de zile după finalizarea contractului",
+      "Oricând pe parcursul execuției contractului"
+    ],
+    "raspunsCorect": "În 5 zile lucrătoare de la data semnării contractului",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 39, alin. (3)"
+  },
+  {
+    "id": 279,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Procedura prin care autoritatea contractantă negociază cu candidații selectați soluția optimă se numește:",
+    "variante": [
+      "Licitație deschisă",
+      "Procedură simplificată",
+      "Dialog competitiv",
+      "Achiziție directă"
+    ],
+    "raspunsCorect": "Dialog competitiv",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 86"
+  },
+  {
+    "id": 280,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "O ofertă care respectă cerințele minime, dar propune o soluție diferită, se numește:",
+    "variante": [
+      "Ofertă neconformă",
+      "Ofertă inacceptabilă",
+      "Ofertă alternativă",
+      "Ofertă preliminară"
+    ],
+    "raspunsCorect": "Ofertă alternativă",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. ii)"
+  },
+  {
+    "id": 281,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Cine poate fi considerat 'operator economic' conform legii achizițiilor publice?",
+    "variante": [
+      "Doar persoanele juridice române",
+      "Doar companiile de stat",
+      "Orice persoană fizică sau juridică, publică sau privată, care oferă licit pe piață lucrări, produse sau servicii",
+      "Doar firmele cu o cifră de afaceri de peste 1 milion de euro"
+    ],
+    "raspunsCorect": "Orice persoană fizică sau juridică, publică sau privată, care oferă licit pe piață lucrări, produse sau servicii",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. jj)"
+  },
+  {
+    "id": 282,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce obligație are autoritatea contractantă dacă suplimentează valoarea unui contract în derulare?",
+    "variante": [
+      "Să reia procedura de la zero",
+      "Să solicite contractantului completarea garanției de bună execuție",
+      "Să anunțe Curtea de Conturi",
+      "Să solicite o nouă ofertă de la contractant"
+    ],
+    "raspunsCorect": "Să solicite contractantului completarea garanției de bună execuție",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 39, alin. (5)"
+  },
+  {
+    "id": 283,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Ce trebuie să facă comisia de inventariere dacă gestionarul refuză să se prezinte?",
+    "variante": [
+      "Să anuleze inventarierea",
+      "Să îl aștepte pe gestionar pe o perioadă nedeterminată",
+      "Să efectueze inventarierea în prezența unui reprezentant legal sau a altei persoane numite să îl reprezinte",
+      "Să efectueze inventarierea fără martori"
+    ],
+    "raspunsCorect": "Să efectueze inventarierea în prezența unui reprezentant legal sau a altei persoane numite să îl reprezinte",
+    "sursa": "NORME din 9 octombrie 2009, Pct. 8, lit. g)"
+  },
+  {
+    "id": 284,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Cum se procedează cu bunurile primite în gestiune în timpul desfășurării inventarierii?",
+    "variante": [
+      "Se refuză primirea lor până la finalizarea inventarului",
+      "Se depozitează într-o zonă tampon și se menționează 'primit în timpul inventarierii' pe documente",
+      "Se inventariază împreună cu restul bunurilor, fără mențiuni speciale",
+      "Se înregistrează direct în contabilitate, omițând evidența gestiunii"
+    ],
+    "raspunsCorect": "Se depozitează într-o zonă tampon și se menționează 'primit în timpul inventarierii' pe documente",
+    "sursa": "NORME din 9 octombrie 2009, Pct. 9"
+  },
+  {
+    "id": 285,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce obligație are contabilul-șef la primirea gestiunii de către un nou gestionar?",
+    "variante": [
+      "Să îi facă instructajul de protecția muncii",
+      "Să îi prezinte ultimul raport de control",
+      "Să îi înmâneze o fișă cu specimene de semnături ale persoanelor autorizate",
+      "Să îi stabilească programul de lucru"
+    ],
+    "raspunsCorect": "Să îi înmâneze o fișă cu specimene de semnături ale persoanelor autorizate",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 34"
+  },
+  {
+    "id": 286,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Cine are acces în depozitele militare, în afara gestionarului și a șefilor direcți?",
+    "variante": [
+      "Orice cadru militar din unitate",
+      "Doar personalul din compartimentul financiar-contabil",
+      "Persoanele împuternicite în scris de comandant pentru controale sau inventarieri",
+      "Reprezentanții presei, la cerere"
+    ],
+    "raspunsCorect": "Persoanele împuternicite în scris de comandant pentru controale sau inventarieri",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 45, alin. (1), lit. c)"
+  },
+  {
+    "id": 287,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "În ce termen se execută, de regulă, casarea bunurilor după primirea aprobărilor?",
+    "variante": [
+      "Imediat, în aceeași zi",
+      "În 20 de zile lucrătoare",
+      "La finalul anului bugetar",
+      "În termen de 90 de zile"
+    ],
+    "raspunsCorect": "În 20 de zile lucrătoare",
+    "sursa": "INSTRUCȚIUNI din 16 septembrie 2013, Art. 19, alin. (8)"
+  },
+  {
+    "id": 288,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine numește comandantul militar al unui județ pe timp de război?",
+    "variante": [
+      "Prefectul județului",
+      "Președintele consiliului județean",
+      "Ministrul Apărării Naționale",
+      "Șeful Marelui Cartier General"
+    ],
+    "raspunsCorect": "Șeful Marelui Cartier General",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 9"
+  },
+  {
+    "id": 289,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Ce obligație au agenții economici, la declararea stării de război, față de comenzile pentru apărare?",
+    "variante": [
+      "Să le onoreze după finalizarea contractelor civile",
+      "Să negocieze un preț mai mare",
+      "Să le satisfacă cu prioritate",
+      "Pot refuza comenzile dacă nu sunt profitabile"
+    ],
+    "raspunsCorect": "Să le satisfacă cu prioritate",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 25"
+  },
+  {
+    "id": 290,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Ce structură din cadrul armatei este destinată să execute misiuni de cercetare specială, acțiuni directe și asistență militară?",
+    "variante": [
+      "Poliția Militară",
+      "Comandamentul Logistic Întrunit",
+      "Forțele pentru Operații Speciale",
+      "Trupele de geniu"
+    ],
+    "raspunsCorect": "Forțele pentru Operații Speciale",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 37, alin. (1)"
+  },
+  {
+    "id": 291,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "În ce domeniu este Ministerul Apărării Naționale autoritate națională?",
+    "variante": [
+      "Transporturi rutiere",
+      "Sănătate publică",
+      "Pregătirea și brevetarea scafandrilor",
+      "Educație și cercetare fundamentală"
+    ],
+    "raspunsCorect": "Pregătirea și brevetarea scafandrilor",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 6, alin. (1), lit. b)"
+  },
+  {
+    "id": 292,
+    "categorie": "Constituția României",
+    "intrebare": "Cine numește, la propunerea Președintelui României, directorul Serviciului Român de Informații?",
+    "variante": [
+      "Guvernul",
+      "Consiliul Suprem de Apărare a Țării",
+      "Parlamentul, în ședință comună",
+      "Prim-ministrul"
+    ],
+    "raspunsCorect": "Parlamentul, în ședință comună",
+    "sursa": "CONSTITUȚIA din 21 noiembrie 1991, Art. 62, alin. (2), lit. g)"
+  },
+  {
+    "id": 293,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ofertarea în cadrul unei licitații electronice presupune, de regulă:",
+    "variante": [
+      "Prezentarea de noi mostre de produse",
+      "Modificarea verbală a condițiilor tehnice",
+      "Reducerea prețurilor sau îmbunătățirea altor elemente ale ofertei prin mijloace electronice",
+      "Depunerea unei noi garanții de participare"
+    ],
+    "raspunsCorect": "Reducerea prețurilor sau îmbunătățirea altor elemente ale ofertei prin mijloace electronice",
+    "sursa": "LEGE nr. 98 din 19 mai 2016, Art. 3, alin. (1), lit. bb)"
+  },
+  {
+    "id": 294,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce se întâmplă dacă există discrepanțe între informațiile din DUAE și cele din anunțul de participare?",
+    "variante": [
+      "Prevalează informațiile din DUAE",
+      "Se anulează procedura",
+      "Prevalează informațiile din anunțul de participare",
+      "Ofertantul este descalificat"
+    ],
+    "raspunsCorect": "Prevalează informațiile din anunțul de participare",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 20, alin. (7)"
+  },
+  {
+    "id": 295,
+    "categorie": "Instrucțiuni 2012 - Gestionare",
+    "intrebare": "Ce obligație are gestionarul la numirea în funcție, legată de garanții?",
+    "variante": [
+      "Să prezinte o scrisoare de recomandare",
+      "Să încheie o asigurare de viață",
+      "Să constituie o garanție în numerar prin contract scris",
+      "Să depună o cauțiune imobiliară"
+    ],
+    "raspunsCorect": "Să constituie o garanție în numerar prin contract scris",
+    "sursa": "INSTRUCŢIUNI din 25 februarie 2012, Art. 8, alin. (1) și Art. 10, alin. (1)"
+  },
+  {
+    "id": 296,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Ce se întâmplă cu bunurile aparținând altor entități, aflate în custodie, în timpul inventarierii?",
+    "variante": [
+      "Nu se inventariază pentru a nu se crea confuzii",
+      "Se inventariază și se înscriu în liste de inventariere distincte",
+      "Se trec temporar în proprietatea unității",
+      "Se returnează proprietarilor înainte de a începe inventarul"
+    ],
+    "raspunsCorect": "Se inventariază și se înscriu în liste de inventariere distincte",
+    "sursa": "NORME din 9 octombrie 2009, Pct. 19, alin. (1)"
+  },
+  {
+    "id": 297,
+    "categorie": "Legea 45/1994 - Apărarea Națională",
+    "intrebare": "Cine stabilește structura organizatorică și atribuțiile Marelui Cartier General?",
+    "variante": [
+      "Guvernul, la propunerea Prim-ministrului",
+      "Parlamentul, prin lege organică",
+      "Consiliul Suprem de Apărare a Țării, la propunerea ministrului apărării",
+      "Șeful Statului Major, prin ordin intern"
+    ],
+    "raspunsCorect": "Consiliul Suprem de Apărare a Țării, la propunerea ministrului apărării",
+    "sursa": "LEGE Nr. 45 din 1 iulie 1994, Art. 8"
+  },
+  {
+    "id": 298,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce drept au membrii familiilor cadrelor militare în activitate când acestea sunt mutate în interes de serviciu în altă garnizoană?",
+    "variante": [
+      "O primă de instalare",
+      "Transport gratuit",
+      "O locuință de serviciu cu 3 camere",
+      "Un loc de muncă asigurat"
+    ],
+    "raspunsCorect": "Transport gratuit",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 23, alin. (1), lit. b)"
+  },
+  {
+    "id": 299,
+    "categorie": "Legea 346/2006 - Organizarea MApN",
+    "intrebare": "Care dintre următoarele NU este o atribuție a Ministerului Apărării Naționale?",
+    "variante": [
+      "Managementul logisticii proprii",
+      "Organizarea și conducerea mobilizării armatei",
+      "Coordonarea activității de comerț exterior pentru toate produsele naționale",
+      "Gestionarea sistemului pensiilor militare de stat"
+    ],
+    "raspunsCorect": "Coordonarea activității de comerț exterior pentru toate produsele naționale",
+    "sursa": "LEGEA nr. 346 din 21 iulie 2006, Art. 5"
+  },
+  {
+    "id": 300,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Cine are obligația de a elabora și actualiza programul anual al achizițiilor publice (PAAP)?",
+    "variante": [
+      "Conducătorul autorității contractante",
+      "Compartimentul financiar-contabil",
+      "Compartimentul intern specializat în domeniul achizițiilor",
+      "Fiecare șef de departament în parte"
+    ],
+    "raspunsCorect": "Compartimentul intern specializat în domeniul achizițiilor",
+    "sursa": "HOTĂRÂRE nr. 395 din 2 iunie 2016, Art. 2, alin. (3), lit. b)"
+  },
+  {
+    "id": 301,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Cine aprobă listele cu sorturile de produse care pot fi compensate în cazul constatării de plusuri și minusuri?",
+    "variante": [
+      "Comisia de inventariere",
+      "Gestionarul responsabil",
+      "Administratorii sau ordonatorii de credite",
+      "Compartimentul financiar-contabil"
+    ],
+    "raspunsCorect": "Administratorii sau ordonatorii de credite",
+    "sursa": "NORME din 9 octombrie 2009, Pct. 40, alin. (5)"
+  },
+  {
+    "id": 302,
+    "categorie": "Legea 80/1995 - Statutul Cadrelor Militare",
+    "intrebare": "Ce se întâmplă cu un cadru militar care, fiind trimis în judecată și suspendat din funcție, este în final achitat?",
+    "variante": [
+      "Este trecut în rezervă",
+      "Este repus în drepturile avute la data suspendării, inclusiv în funcția deținută anterior sau una echivalentă",
+      "Primește doar drepturile bănești restante, dar nu și funcția",
+      "Trebuie să participe la un nou concurs pentru a reocupa o funcție"
+    ],
+    "raspunsCorect": "Este repus în drepturile avute la data suspendării, inclusiv în funcția deținută anterior sau una echivalentă",
+    "sursa": "LEGE nr. 80 din 11 iulie 1995, Art. 89, alin. (7)"
+  },
+  {
+    "id": 303,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Care este scopul principal al OUG nr. 52/2024 care modifică Legea 98/2016?",
+    "variante": [
+      "Majorarea plafonului de angajare a cheltuielilor pentru ordonatorii de credite",
+      "Introducerea obligativității achizițiilor directe pentru toate produsele",
+      "Desființarea SEAP",
+      "Alinierea legislației naționale la dreptul UE (remedierea neconformităților indicate de Comisia Europeană)"
+    ],
+    "raspunsCorect": "Alinierea legislației naționale la dreptul UE (remedierea neconformităților indicate de Comisia Europeană)",
+    "sursa": "OUG nr. 52/2024, preambul, MO nr. 483/24.05.2024"
+  },
+  {
+    "id": 304,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "De la ce dată se aplică prevederile OUG nr. 52/2024 pentru contractele de achiziție publică?",
+    "variante": [
+      "Numai pentru contractele finanțate din fonduri europene",
+      "Exclusiv pentru achizițiile sectoriale",
+      "Pentru contractele încheiate după intrarea în vigoare (24 mai 2024) și, corespunzător, la modificarea celor în derulare",
+      "Doar pentru procedurile demarate după 1 ianuarie 2025"
+    ],
+    "raspunsCorect": "Pentru contractele încheiate după intrarea în vigoare (24 mai 2024) și, corespunzător, la modificarea celor în derulare",
+    "sursa": "OUG nr. 52/2024, art. XI alin. (1)-(3), MO nr. 483/24.05.2024"
+  },
+  {
+    "id": 305,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Prin ce act normativ a fost aprobată OUG nr. 52/2024?",
+    "variante": [
+      "Legea nr. 118/2025 (MO nr. 619/01.07.2025; intrare în vigoare 04.07.2025)",
+      "Legea nr. 45/1994",
+      "Hotărârea Guvernului nr. 395/2016",
+      "Legea nr. 98/2024"
+    ],
+    "raspunsCorect": "Legea nr. 118/2025 (MO nr. 619/01.07.2025; intrare în vigoare 04.07.2025)",
+    "sursa": "Legea nr. 118/2025 de aprobare a OUG nr. 52/2024 (MO nr. 619/01.07.2025)"
+  },
+  {
+    "id": 306,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce hotărâre a Guvernului, legată de normele metodologice, este vizată expres de art. X din OUG nr. 52/2024?",
+    "variante": [
+      "HG nr. 841/1995 privind valorificarea bunurilor",
+      "HG nr. 375/2022 care modifică HG nr. 395/2016 și HG nr. 394/2016",
+      "HG nr. 1336/2022 privind personalul contractual",
+      "HG nr. 909/1997 privind amortizarea"
+    ],
+    "raspunsCorect": "HG nr. 375/2022 care modifică HG nr. 395/2016 și HG nr. 394/2016",
+    "sursa": "OUG nr. 52/2024, art. X"
+  },
+  {
+    "id": 307,
+    "categorie": "Legea 98/2016 - Achiziții Publice",
+    "intrebare": "Ce efect produce abrogarea unor dispoziții prin OUG nr. 52/2024 asupra procedurilor aflate înainte de termenul-limită de depunere a ofertelor?",
+    "variante": [
+      "Autoritatea contractantă trebuie să întreprindă diligențele necesare pentru aplicarea corespunzătoare a ordonanței",
+      "Procedurile se anulează automat",
+      "Se amână depunerea ofertelor cu cel puțin 30 de zile",
+      "Se aplică regulile vechi până la semnarea contractului"
+    ],
+    "raspunsCorect": "Autoritatea contractantă trebuie să întreprindă diligențele necesare pentru aplicarea corespunzătoare a ordonanței",
+    "sursa": "OUG nr. 52/2024, art. XI alin. (3)"
+  },
+  {
+    "id": 308,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "Ce aprobă HG nr. 395/2016?",
+    "variante": [
+      "Normele privind securitatea și sănătatea în muncă",
+      "Normele privind salarizarea personalului",
+      "Normele metodologice de aplicare a prevederilor din Legea nr. 98/2016 privind achizițiile publice",
+      "Regulamentul logistic al operațiilor întrunite"
+    ],
+    "raspunsCorect": "Normele metodologice de aplicare a prevederilor din Legea nr. 98/2016 privind achizițiile publice",
+    "sursa": "HG nr. 395/2016, MO nr. 423/06.06.2016"
+  },
+  {
+    "id": 309,
+    "categorie": "HG 395/2016 - Norme Achiziții",
+    "intrebare": "HG nr. 395/2016 a fost publicată în Monitorul Oficial al României, Partea I, cu ce număr și la ce dată?",
+    "variante": [
+      "Nr. 277 din 22 martie 2022",
+      "Nr. 619 din 1 iulie 2025",
+      "Nr. 390 din 23 mai 2016",
+      "Nr. 423 din 6 iunie 2016"
+    ],
+    "raspunsCorect": "Nr. 423 din 6 iunie 2016",
+    "sursa": "HG nr. 395/2016, fișa act, MO nr. 423/06.06.2016"
+  },
+  {
+    "id": 310,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Comisia de casare are, potrivit instrucțiunilor MApN, cel puțin câți membri și ce condiție minimă de competență?",
+    "variante": [
+      "Exact 5 membri, toți economiști",
+      "Cel puțin 2 membri, fără condiții de specialitate",
+      "Cel puțin 4 membri, dintre care unul jurist",
+      "Cel puțin 3 membri, dintre care minimum doi cu cunoștințe tehnice de specialitate"
+    ],
+    "raspunsCorect": "Cel puțin 3 membri, dintre care minimum doi cu cunoștințe tehnice de specialitate",
+    "sursa": "Ordin M.Ap.N. nr. M.92/2013, Instrucțiuni – art. 19"
+  },
+  {
+    "id": 311,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Gestionarul bunurilor supuse casării poate face parte din comisia de casare?",
+    "variante": [
+      "Da, cu avizul ordonatorului de credite",
+      "Nu, gestionarii nu se numesc în comisia de casare",
+      "Da, obligatoriu ca secretar",
+      "Da, dacă are peste 5 ani vechime"
+    ],
+    "raspunsCorect": "Nu, gestionarii nu se numesc în comisia de casare",
+    "sursa": "Ordin M.Ap.N. nr. M.92/2013, Instrucțiuni – art. 19 alin. (3)"
+  },
+  {
+    "id": 312,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "În cât timp se execută casarea după aprobarea documentelor, potrivit instrucțiunilor MApN?",
+    "variante": [
+      "În termen de 60 de zile lucrătoare de la primirea documentelor aprobate",
+      "În 30 de zile lucrătoare",
+      "În 90 de zile calendaristice",
+      "În 15 zile calendaristice"
+    ],
+    "raspunsCorect": "În termen de 60 de zile lucrătoare de la primirea documentelor aprobate",
+    "sursa": "Ordin M.Ap.N. nr. M.92/2013, Instrucțiuni – art. 19 alin. (8)"
+  },
+  {
+    "id": 313,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Ce noutate introduce Ordinul M.Ap.N. nr. M.207/2021 în procedura de scoatere din funcțiune?",
+    "variante": [
+      "Propunerile de scoatere din funcțiune se formulează în 15 zile lucrătoare după aprobarea procesului-verbal de inventariere",
+      "Mutarea competenței de aprobare la ministrul apărării",
+      "Eliminarea controlului financiar preventiv",
+      "Obligativitatea aprobării casării de către ANAF"
+    ],
+    "raspunsCorect": "Propunerile de scoatere din funcțiune se formulează în 15 zile lucrătoare după aprobarea procesului-verbal de inventariere",
+    "sursa": "Ordin M.Ap.N. nr. M.207/2021 (MO nr. 1013/22.10.2021) – modificarea art. 4 alin. (1^1)"
+  },
+  {
+    "id": 314,
+    "categorie": "Instrucțiuni 2013 - Casare",
+    "intrebare": "Unde se exercită controlul financiar preventiv propriu pentru documentele de scoatere din funcțiune la nivel central?",
+    "variante": [
+      "La Curtea de Conturi",
+      "La Direcția generală financiar-contabilă, după avizul Direcției generale juridice",
+      "La Direcția domenii și infrastructuri",
+      "La structura de achiziții a unității"
+    ],
+    "raspunsCorect": "La Direcția generală financiar-contabilă, după avizul Direcției generale juridice",
+    "sursa": "Ordin M.Ap.N. nr. M.207/2021 – modificarea art. 2 alin. (3)"
+  },
+  {
+    "id": 315,
+    "categorie": "OUG 57/2019 - Codul administrativ (patrimoniu)",
+    "intrebare": "Cine întocmește inventarul bunurilor din domeniul public al statului, potrivit Codului administrativ?",
+    "variante": [
+      "Ministerele și alte organe de specialitate ale administrației publice centrale pentru bunurile din administrarea lor și a unităților subordonate",
+      "Autoritățile deliberative ale UAT",
+      "Curtea de Conturi",
+      "ANAF"
+    ],
+    "raspunsCorect": "Ministerele și alte organe de specialitate ale administrației publice centrale pentru bunurile din administrarea lor și a unităților subordonate",
+    "sursa": "OUG nr. 57/2019, art. 288 alin. (1)"
+  },
+  {
+    "id": 316,
+    "categorie": "OUG 57/2019 - Codul administrativ (patrimoniu)",
+    "intrebare": "Cum se aprobă inventarul bunurilor din domeniul public al statului?",
+    "variante": [
+      "Prin decizie a prim-ministrului",
+      "Prin ordin al ministrului finanțelor",
+      "Prin hotărâre a consiliului local",
+      "Prin hotărâre a Guvernului"
+    ],
+    "raspunsCorect": "Prin hotărâre a Guvernului",
+    "sursa": "OUG nr. 57/2019, art. 288 alin. (1)"
+  },
+  {
+    "id": 317,
+    "categorie": "OUG 57/2019 - Codul administrativ (patrimoniu)",
+    "intrebare": "Care sunt principiile specifice exercitării dreptului de proprietate publică?",
+    "variante": [
+      "Eficiența, eficacitatea, economicitatea (cele 3E)",
+      "Legalitatea, oportunitatea, subsidiaritatea",
+      "Prioritatea interesului public, protecția și conservarea, gestiunea eficientă, transparența și publicitatea",
+      "Integritatea, confidențialitatea, disponibilitatea"
+    ],
+    "raspunsCorect": "Prioritatea interesului public, protecția și conservarea, gestiunea eficientă, transparența și publicitatea",
+    "sursa": "OUG nr. 57/2019, art. 285"
+  },
+  {
+    "id": 318,
+    "categorie": "OUG 57/2019 - Codul administrativ (patrimoniu)",
+    "intrebare": "Ce obligație au titularii dreptului de administrare privind înscrierea drepturilor reale?",
+    "variante": [
+      "Aprobarea prin ordin al ministrului",
+      "Publicarea în SEAP",
+      "Transmiterea anuală la ANAF",
+      "Înscrierea în sistemul integrat de cadastru și carte funciară"
+    ],
+    "raspunsCorect": "Înscrierea în sistemul integrat de cadastru și carte funciară",
+    "sursa": "OUG nr. 57/2019, art. 288 alin. (3)"
+  },
+  {
+    "id": 319,
+    "categorie": "OUG 57/2019 - Codul administrativ (patrimoniu)",
+    "intrebare": "Bunurile din domeniul public al unităților administrativ-teritoriale sunt supuse inventarierii cu ce frecvență?",
+    "variante": [
+      "La 3 ani",
+      "Numai la schimbarea ordonatorului",
+      "Anual",
+      "O dată la 2 ani"
+    ],
+    "raspunsCorect": "Anual",
+    "sursa": "OUG nr. 57/2019, art. 289 alin. (1)"
+  },
+  {
+    "id": 320,
+    "categorie": "Legea 500/2002 - Finanțe publice",
+    "intrebare": "Care dintre următoarele responsabilități revine ordonatorilor de credite potrivit Legii 500/2002?",
+    "variante": [
+      "Inventarierea bunurilor numai la 2 ani",
+      "Integritatea bunurilor încredințate instituției pe care o conduc",
+      "Aprobarea bilanțului consolidat al statului",
+      "Stabilirea cursului de schimb bugetar"
+    ],
+    "raspunsCorect": "Integritatea bunurilor încredințate instituției pe care o conduc",
+    "sursa": "Legea nr. 500/2002, art. 22 alin. (2) lit. d)"
+  },
+  {
+    "id": 321,
+    "categorie": "Legea 500/2002 - Finanțe publice",
+    "intrebare": "Ce obligativitate au ordonatorii de credite cu privire la evidența patrimoniului?",
+    "variante": [
+      "Publicarea anuale a bilanțului în Monitorul Oficial",
+      "Organizarea și ținerea la zi a evidenței patrimoniului, conform legii",
+      "Transmiterea trimestrială la Guvern a listei bunurilor propuse la casare",
+      "Aprobarea normelor de inventariere"
+    ],
+    "raspunsCorect": "Organizarea și ținerea la zi a evidenței patrimoniului, conform legii",
+    "sursa": "Legea nr. 500/2002, art. 22 alin. (2) lit. h)"
+  },
+  {
+    "id": 322,
+    "categorie": "Legea 500/2002 - Finanțe publice",
+    "intrebare": "Ce sistem trebuie să organizeze ordonatorii de credite în legătură cu achizițiile?",
+    "variante": [
+      "Un sistem de gestiune a resurselor umane",
+      "Un sistem de planificare strategică (doar)",
+      "Un sistem de monitorizare a programului de achiziții publice",
+      "Un sistem de evaluare a performanțelor personalului"
+    ],
+    "raspunsCorect": "Un sistem de monitorizare a programului de achiziții publice",
+    "sursa": "Legea nr. 500/2002, art. 22 alin. (2) lit. f)"
+  },
+  {
+    "id": 323,
+    "categorie": "HG 841/1995 - Transmitere/Valorificare bunuri",
+    "intrebare": "Ce reglementează HG nr. 841/1995?",
+    "variante": [
+      "Regimul achizițiilor de servicii sociale",
+      "Normele de salarizare a personalului bugetar",
+      "Procedura de casare în mediul privat",
+      "Procedurile de transmitere fără plată și de valorificare a bunurilor aparținând instituțiilor publice"
+    ],
+    "raspunsCorect": "Procedurile de transmitere fără plată și de valorificare a bunurilor aparținând instituțiilor publice",
+    "sursa": "HG nr. 841/1995, art. 1-2"
+  },
+  {
+    "id": 324,
+    "categorie": "HG 841/1995 - Transmitere/Valorificare bunuri",
+    "intrebare": "Care este modalitatea de valorificare prin vânzare prevăzută de HG 841/1995?",
+    "variante": [
+      "Licitație publică deschisă cu strigare",
+      "Vânzare prin SEAP",
+      "Atribuire directă către operatori economici agreați",
+      "Negociere directă fără publicitate"
+    ],
+    "raspunsCorect": "Licitație publică deschisă cu strigare",
+    "sursa": "HG nr. 841/1995, Anexa 2 – Regulament de valorificare"
+  },
+  {
+    "id": 325,
+    "categorie": "HG 841/1995 - Transmitere/Valorificare bunuri",
+    "intrebare": "Ce bunuri sunt exceptate de la aplicarea HG 841/1995?",
+    "variante": [
+      "Echipamentele IT",
+      "Bunurile care implică apărarea țării, ordinea publică și siguranța națională (proceduri distincte aprobate de Guvern)",
+      "Autovehiculele din parcul auto propriu",
+      "Bunurile culturale mobile"
+    ],
+    "raspunsCorect": "Bunurile care implică apărarea țării, ordinea publică și siguranța națională (proceduri distincte aprobate de Guvern)",
+    "sursa": "HG nr. 841/1995, art. 4"
+  },
+  {
+    "id": 326,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Conform OMFP nr. 2861/2009, inventarierea generală a elementelor de natura activelor, datoriilor și capitalurilor proprii se efectuează, de regulă, cu ce periodicitate?",
+    "variante": [
+      "Doar la solicitarea Curții de Conturi",
+      "Numai la schimbarea gestionarului",
+      "La fiecare 2 ani",
+      "Anual, la încheierea exercițiului financiar"
+    ],
+    "raspunsCorect": "Anual, la încheierea exercițiului financiar",
+    "sursa": "OMFP nr. 2861/2009 – Norme de inventariere (forma actualizată)"
+  },
+  {
+    "id": 327,
+    "categorie": "Norme 2009 - Inventariere",
+    "intrebare": "Unde se înregistrează rezultatele inventarierii potrivit normelor OMFP 2861/2009?",
+    "variante": [
+      "Doar în bilanțul anual",
+      "În registrul de casă",
+      "În notele de recepție și constatare diferențe (doar)",
+      "În Registrul-inventar și în evidența contabilă"
+    ],
+    "raspunsCorect": "În Registrul-inventar și în evidența contabilă",
+    "sursa": "OMFP nr. 2861/2009 – Norme de inventariere"
+  }
+]

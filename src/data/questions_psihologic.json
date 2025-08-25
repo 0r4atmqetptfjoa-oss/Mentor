@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 200000,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "abonament",
+      "raft",
+      "cititor"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200001,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "implementare",
+      "ordonanță",
+      "exponat"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200002,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "suport",
+      "foaie",
+      "scrisoare"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200003,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "cititor",
+      "abonament",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200004,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "suport",
+      "instrucțiuni",
+      "foaie",
+      "scrisoare"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200005,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "abonament",
+      "raft",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200006,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "scrisoare",
+      "foaie",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200007,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "abonament",
+      "cititor",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200008,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "cititor",
+      "cărți",
+      "abonament"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200009,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "cărți",
+      "abonament",
+      "cititor"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200010,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "abonament",
+      "cărți",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200011,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "suport",
+      "scrisoare",
+      "instrucțiuni"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200012,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "abonament",
+      "raft",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200013,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "abonament",
+      "cărți",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200014,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "suport",
+      "scrisoare",
+      "instrucțiuni",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200015,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "suport",
+      "scrisoare",
+      "instrucțiuni",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200016,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "abonament",
+      "cititor",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200017,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "ordonanță",
+      "exponat",
+      "întâlnire",
+      "implementare"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200018,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "scrisoare",
+      "foaie",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200019,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "raft",
+      "cititor",
+      "abonament"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200020,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "scrisoare",
+      "suport",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200021,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "implementare",
+      "întâlnire",
+      "exponat",
+      "ordonanță"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200022,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "abonament",
+      "cărți",
+      "cititor"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200023,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "implementare",
+      "exponat",
+      "ordonanță"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200024,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "scrisoare",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200025,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "implementare",
+      "exponat",
+      "ordonanță"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200026,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "exponat",
+      "întâlnire",
+      "ordonanță",
+      "implementare"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200027,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "abonament",
+      "cititor",
+      "cărți",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200028,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "ordonanță",
+      "întâlnire",
+      "exponat",
+      "implementare"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200029,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "suport",
+      "scrisoare"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200030,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "ordonanță",
+      "exponat",
+      "implementare",
+      "întâlnire"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200031,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "raft",
+      "abonament",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200032,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "abonament",
+      "cărți",
+      "cititor",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200033,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "suport",
+      "scrisoare",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200034,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "implementare",
+      "exponat",
+      "ordonanță",
+      "întâlnire"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200035,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "implementare",
+      "ordonanță",
+      "exponat"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200036,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "scrisoare",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200037,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "exponat",
+      "implementare",
+      "ordonanță",
+      "întâlnire"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200038,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "suport",
+      "instrucțiuni",
+      "foaie",
+      "scrisoare"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200039,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "raft",
+      "cititor",
+      "abonament"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200040,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "exponat",
+      "implementare",
+      "ordonanță"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200041,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "cărți",
+      "abonament",
+      "cititor"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200042,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "implementare",
+      "exponat",
+      "ordonanță",
+      "întâlnire"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200043,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "scrisoare",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200044,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "scrisoare",
+      "suport",
+      "instrucțiuni",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200045,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "scrisoare",
+      "foaie",
+      "instrucțiuni",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200046,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "scrisoare",
+      "foaie",
+      "suport",
+      "instrucțiuni"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200047,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "abonament",
+      "cărți",
+      "cititor"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200048,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "abonament",
+      "cărți",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200049,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "scrisoare",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200050,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "instrucțiuni",
+      "scrisoare",
+      "foaie",
+      "suport"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200051,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "raft",
+      "abonament",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200052,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cititor",
+      "raft",
+      "abonament",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200053,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "suport",
+      "scrisoare",
+      "instrucțiuni",
+      "foaie"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200054,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "raft",
+      "abonament",
+      "cititor",
+      "cărți"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200055,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: depozit : stoc :: bibliotecă : ____",
+    "variante": [
+      "cărți",
+      "cititor",
+      "abonament",
+      "raft"
+    ],
+    "raspunsCorect": "cărți",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200056,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "exponat",
+      "implementare",
+      "ordonanță",
+      "întâlnire"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200057,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: comandă : executare :: plan : ____",
+    "variante": [
+      "întâlnire",
+      "implementare",
+      "ordonanță",
+      "exponat"
+    ],
+    "raspunsCorect": "implementare",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200058,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "instrucțiuni",
+      "suport",
+      "scrisoare"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200059,
+    "categorie": "Psihologic – Raționament verbal (analogii)",
+    "intrebare": "Completați analogia: hartă : orientare :: manual : ____",
+    "variante": [
+      "foaie",
+      "scrisoare",
+      "suport",
+      "instrucțiuni"
+    ],
+    "raspunsCorect": "instrucțiuni",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200060,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Indeterminat",
+      "Fals",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200061,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Nu se aplică",
+      "Indeterminat",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200062,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200063,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Fals",
+      "Indeterminat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200064,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Nu se aplică",
+      "Indeterminat",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200065,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200066,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Nu se aplică",
+      "Adevărat",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200067,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Adevărat",
+      "Nu se aplică",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200068,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Adevărat",
+      "Nu se aplică",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200069,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Adevărat",
+      "Indeterminat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200070,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Fals",
+      "Adevărat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200071,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Adevărat",
+      "Indeterminat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200072,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Fals",
+      "Indeterminat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200073,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Adevărat",
+      "Indeterminat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200074,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200075,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Fals",
+      "Nu se aplică",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200076,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200077,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Adevărat",
+      "Fals",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200078,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200079,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Indeterminat",
+      "Nu se aplică",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200080,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Fals",
+      "Adevărat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200081,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200082,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Adevărat",
+      "Indeterminat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200083,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Nu se aplică",
+      "Fals",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200084,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Adevărat",
+      "Indeterminat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200085,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Indeterminat",
+      "Fals",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200086,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200087,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200088,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Nu se aplică",
+      "Adevărat",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200089,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Fals",
+      "Nu se aplică",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200090,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Fals",
+      "Indeterminat",
+      "Nu se aplică"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200091,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200092,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Adevărat",
+      "Nu se aplică",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200093,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Adevărat",
+      "Fals",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200094,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200095,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Fals",
+      "Nu se aplică",
+      "Indeterminat",
+      "Adevărat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200096,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Nu se aplică",
+      "Indeterminat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200097,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Indeterminat",
+      "Nu se aplică",
+      "Adevărat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200098,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Adevărat",
+      "Nu se aplică",
+      "Fals",
+      "Indeterminat"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200099,
+    "categorie": "Psihologic – Raționament verbal (silogisme)",
+    "intrebare": "Toate vagoanele din convoi sunt sigilate. Unele platforme din convoi sunt vagoane. Concluzie: Unele platforme din convoi sunt sigilate.",
+    "variante": [
+      "Nu se aplică",
+      "Indeterminat",
+      "Adevărat",
+      "Fals"
+    ],
+    "raspunsCorect": "Adevărat",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200100,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 8, 14, 20, 26, 32, ____",
+    "variante": [
+      "38",
+      "37",
+      "39",
+      "40"
+    ],
+    "raspunsCorect": "38",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200101,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 14, 17, 20, 23, 26, ____",
+    "variante": [
+      "31",
+      "29",
+      "30",
+      "28"
+    ],
+    "raspunsCorect": "29",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200102,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 13, 22, 31, 40, 49, ____",
+    "variante": [
+      "57",
+      "58",
+      "60",
+      "59"
+    ],
+    "raspunsCorect": "58",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200103,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 4, 10, 16, 22, 28, ____",
+    "variante": [
+      "36",
+      "33",
+      "35",
+      "34"
+    ],
+    "raspunsCorect": "34",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200104,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 15, 23, 31, 39, 47, ____",
+    "variante": [
+      "55",
+      "57",
+      "56",
+      "54"
+    ],
+    "raspunsCorect": "55",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200105,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 8, 12, 16, 20, 24, ____",
+    "variante": [
+      "30",
+      "28",
+      "29",
+      "27"
+    ],
+    "raspunsCorect": "28",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200106,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 16, 23, 30, 37, ____",
+    "variante": [
+      "44",
+      "43",
+      "46",
+      "45"
+    ],
+    "raspunsCorect": "44",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200107,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 15, 24, 33, 42, ____",
+    "variante": [
+      "51",
+      "50",
+      "53",
+      "52"
+    ],
+    "raspunsCorect": "51",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200108,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 14, 22, 30, 38, ____",
+    "variante": [
+      "47",
+      "48",
+      "46",
+      "45"
+    ],
+    "raspunsCorect": "46",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200109,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 15, 19, 23, 27, ____",
+    "variante": [
+      "33",
+      "32",
+      "30",
+      "31"
+    ],
+    "raspunsCorect": "31",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200110,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 13, 18, 23, 28, 33, ____",
+    "variante": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "raspunsCorect": "38",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200111,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 15, 23, 31, 39, 47, ____",
+    "variante": [
+      "54",
+      "56",
+      "55",
+      "57"
+    ],
+    "raspunsCorect": "55",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200112,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 5, 11, 17, 23, 29, ____",
+    "variante": [
+      "35",
+      "37",
+      "34",
+      "36"
+    ],
+    "raspunsCorect": "35",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200113,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 14, 22, 30, 38, 46, ____",
+    "variante": [
+      "56",
+      "53",
+      "55",
+      "54"
+    ],
+    "raspunsCorect": "54",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200114,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 19, 27, 35, 43, ____",
+    "variante": [
+      "52",
+      "51",
+      "50",
+      "53"
+    ],
+    "raspunsCorect": "51",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200115,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 14, 21, 28, 35, 42, ____",
+    "variante": [
+      "50",
+      "48",
+      "51",
+      "49"
+    ],
+    "raspunsCorect": "49",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200116,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 12, 19, 26, 33, 40, ____",
+    "variante": [
+      "49",
+      "47",
+      "46",
+      "48"
+    ],
+    "raspunsCorect": "47",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200117,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 19, 27, 35, 43, ____",
+    "variante": [
+      "53",
+      "51",
+      "52",
+      "50"
+    ],
+    "raspunsCorect": "51",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200118,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 2, 5, 8, 11, 14, ____",
+    "variante": [
+      "18",
+      "19",
+      "17",
+      "16"
+    ],
+    "raspunsCorect": "17",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200119,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 16, 23, 30, 37, ____",
+    "variante": [
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "raspunsCorect": "44",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200120,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 7, 9, 11, 13, 15, ____",
+    "variante": [
+      "16",
+      "18",
+      "17",
+      "19"
+    ],
+    "raspunsCorect": "17",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200121,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 8, 11, 14, 17, 20, ____",
+    "variante": [
+      "24",
+      "25",
+      "22",
+      "23"
+    ],
+    "raspunsCorect": "23",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200122,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 7, 13, 19, 25, 31, ____",
+    "variante": [
+      "39",
+      "37",
+      "38",
+      "36"
+    ],
+    "raspunsCorect": "37",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200123,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 19, 28, 37, 46, ____",
+    "variante": [
+      "57",
+      "55",
+      "56",
+      "54"
+    ],
+    "raspunsCorect": "55",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200124,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 18, 27, 36, 45, ____",
+    "variante": [
+      "56",
+      "55",
+      "54",
+      "53"
+    ],
+    "raspunsCorect": "54",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200125,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 2, 5, 8, 11, 14, ____",
+    "variante": [
+      "16",
+      "19",
+      "18",
+      "17"
+    ],
+    "raspunsCorect": "17",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200126,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 12, 16, 20, 24, 28, ____",
+    "variante": [
+      "34",
+      "32",
+      "31",
+      "33"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200127,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 14, 18, 22, 26, ____",
+    "variante": [
+      "30",
+      "31",
+      "32",
+      "29"
+    ],
+    "raspunsCorect": "30",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200128,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 14, 19, 24, 29, ____",
+    "variante": [
+      "35",
+      "34",
+      "33",
+      "36"
+    ],
+    "raspunsCorect": "34",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200129,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 4, 12, 20, 28, 36, ____",
+    "variante": [
+      "45",
+      "43",
+      "44",
+      "46"
+    ],
+    "raspunsCorect": "44",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200130,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 17, 25, 33, 41, ____",
+    "variante": [
+      "50",
+      "48",
+      "49",
+      "51"
+    ],
+    "raspunsCorect": "49",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200131,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 5, 11, 17, 23, 29, ____",
+    "variante": [
+      "36",
+      "37",
+      "34",
+      "35"
+    ],
+    "raspunsCorect": "35",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200132,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 14, 18, 22, 26, 30, ____",
+    "variante": [
+      "36",
+      "34",
+      "35",
+      "33"
+    ],
+    "raspunsCorect": "34",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200133,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 12, 15, 18, 21, ____",
+    "variante": [
+      "24",
+      "25",
+      "26",
+      "23"
+    ],
+    "raspunsCorect": "24",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200134,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 17, 24, 31, 38, ____",
+    "variante": [
+      "45",
+      "46",
+      "44",
+      "47"
+    ],
+    "raspunsCorect": "45",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200135,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 14, 17, 20, 23, ____",
+    "variante": [
+      "26",
+      "28",
+      "27",
+      "25"
+    ],
+    "raspunsCorect": "26",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200136,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 15, 19, 23, 27, ____",
+    "variante": [
+      "32",
+      "31",
+      "33",
+      "30"
+    ],
+    "raspunsCorect": "31",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200137,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 12, 16, 20, 24, 28, ____",
+    "variante": [
+      "33",
+      "34",
+      "32",
+      "31"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200138,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 9, 12, 15, 18, ____",
+    "variante": [
+      "20",
+      "21",
+      "23",
+      "22"
+    ],
+    "raspunsCorect": "21",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200139,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 18, 26, 34, 42, ____",
+    "variante": [
+      "51",
+      "50",
+      "49",
+      "52"
+    ],
+    "raspunsCorect": "50",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200140,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 19, 27, 35, 43, ____",
+    "variante": [
+      "50",
+      "52",
+      "51",
+      "53"
+    ],
+    "raspunsCorect": "51",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200141,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 12, 16, 20, 24, 28, ____",
+    "variante": [
+      "32",
+      "31",
+      "34",
+      "33"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200142,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 4, 8, 12, 16, 20, ____",
+    "variante": [
+      "26",
+      "24",
+      "25",
+      "23"
+    ],
+    "raspunsCorect": "24",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200143,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 15, 22, 29, 36, 43, ____",
+    "variante": [
+      "49",
+      "52",
+      "51",
+      "50"
+    ],
+    "raspunsCorect": "50",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200144,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 5, 13, 21, 29, 37, ____",
+    "variante": [
+      "45",
+      "44",
+      "46",
+      "47"
+    ],
+    "raspunsCorect": "45",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200145,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 8, 17, 26, 35, 44, ____",
+    "variante": [
+      "54",
+      "52",
+      "53",
+      "55"
+    ],
+    "raspunsCorect": "53",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200146,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 13, 15, 17, 19, ____",
+    "variante": [
+      "20",
+      "21",
+      "23",
+      "22"
+    ],
+    "raspunsCorect": "21",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200147,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 11, 16, 21, 26, ____",
+    "variante": [
+      "33",
+      "32",
+      "31",
+      "30"
+    ],
+    "raspunsCorect": "31",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200148,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 11, 20, 29, 38, 47, ____",
+    "variante": [
+      "57",
+      "58",
+      "55",
+      "56"
+    ],
+    "raspunsCorect": "56",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200149,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 13, 20, 27, 34, ____",
+    "variante": [
+      "43",
+      "42",
+      "40",
+      "41"
+    ],
+    "raspunsCorect": "41",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200150,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 15, 20, 25, 30, ____",
+    "variante": [
+      "36",
+      "34",
+      "35",
+      "37"
+    ],
+    "raspunsCorect": "35",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200151,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 8, 10, 12, 14, ____",
+    "variante": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "raspunsCorect": "16",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200152,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 15, 18, 21, 24, 27, ____",
+    "variante": [
+      "31",
+      "29",
+      "30",
+      "32"
+    ],
+    "raspunsCorect": "30",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200153,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 5, 12, 19, 26, 33, ____",
+    "variante": [
+      "41",
+      "39",
+      "40",
+      "42"
+    ],
+    "raspunsCorect": "40",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200154,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 14, 19, 24, 29, 34, ____",
+    "variante": [
+      "38",
+      "41",
+      "39",
+      "40"
+    ],
+    "raspunsCorect": "39",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200155,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 10, 16, 22, 28, 34, ____",
+    "variante": [
+      "40",
+      "39",
+      "42",
+      "41"
+    ],
+    "raspunsCorect": "40",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200156,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 6, 12, 18, 24, 30, ____",
+    "variante": [
+      "35",
+      "37",
+      "38",
+      "36"
+    ],
+    "raspunsCorect": "36",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200157,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 2, 8, 14, 20, 26, ____",
+    "variante": [
+      "34",
+      "32",
+      "31",
+      "33"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200158,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 5, 9, 13, 17, 21, ____",
+    "variante": [
+      "27",
+      "26",
+      "25",
+      "24"
+    ],
+    "raspunsCorect": "25",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200159,
+    "categorie": "Psihologic – Raționament numeric (progresii)",
+    "intrebare": "Completați șirul: 9, 13, 17, 21, 25, ____",
+    "variante": [
+      "29",
+      "30",
+      "31",
+      "28"
+    ],
+    "raspunsCorect": "29",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200160,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "324",
+      "971",
+      "975",
+      "972"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200161,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "972",
+      "971",
+      "324",
+      "975"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200162,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 6, 12, 24, 48, ____",
+    "variante": [
+      "95",
+      "48",
+      "98",
+      "96"
+    ],
+    "raspunsCorect": "96",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200163,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 6, 12, 24, 48, ____",
+    "variante": [
+      "98",
+      "48",
+      "96",
+      "95"
+    ],
+    "raspunsCorect": "96",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200164,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "486",
+      "485",
+      "162",
+      "489"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200165,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 6, 12, 24, 48, ____",
+    "variante": [
+      "98",
+      "96",
+      "48",
+      "95"
+    ],
+    "raspunsCorect": "96",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200166,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "16",
+      "34",
+      "32",
+      "31"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200167,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "489",
+      "162",
+      "486",
+      "485"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200168,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "63",
+      "32",
+      "64",
+      "66"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200169,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 3, 9, 27, 81, ____",
+    "variante": [
+      "242",
+      "81",
+      "243",
+      "246"
+    ],
+    "raspunsCorect": "243",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200170,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "64",
+      "32",
+      "66",
+      "63"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200171,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "162",
+      "485",
+      "489",
+      "486"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200172,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "16",
+      "34",
+      "32",
+      "31"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200173,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 10, 20, 40, 80, ____",
+    "variante": [
+      "80",
+      "162",
+      "160",
+      "159"
+    ],
+    "raspunsCorect": "160",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200174,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 6, 12, 24, 48, ____",
+    "variante": [
+      "48",
+      "96",
+      "98",
+      "95"
+    ],
+    "raspunsCorect": "96",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200175,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 8, 16, 32, 64, ____",
+    "variante": [
+      "130",
+      "128",
+      "127",
+      "64"
+    ],
+    "raspunsCorect": "128",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200176,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "32",
+      "31",
+      "16",
+      "34"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200177,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "485",
+      "486",
+      "489",
+      "162"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200178,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "32",
+      "34",
+      "31",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200179,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "64",
+      "32",
+      "66",
+      "63"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200180,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "32",
+      "66",
+      "63",
+      "64"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200181,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 15, 45, 135, 405, ____",
+    "variante": [
+      "1215",
+      "1214",
+      "405",
+      "1218"
+    ],
+    "raspunsCorect": "1215",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200182,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "32",
+      "64",
+      "63",
+      "66"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200183,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "485",
+      "162",
+      "489",
+      "486"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200184,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "66",
+      "64",
+      "32",
+      "63"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200185,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "162",
+      "489",
+      "486",
+      "485"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200186,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 8, 16, 32, 64, ____",
+    "variante": [
+      "127",
+      "130",
+      "64",
+      "128"
+    ],
+    "raspunsCorect": "128",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200187,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "489",
+      "486",
+      "162",
+      "485"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200188,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 8, 16, 32, 64, ____",
+    "variante": [
+      "64",
+      "127",
+      "130",
+      "128"
+    ],
+    "raspunsCorect": "128",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200189,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 3, 9, 27, 81, ____",
+    "variante": [
+      "242",
+      "246",
+      "243",
+      "81"
+    ],
+    "raspunsCorect": "243",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200190,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "972",
+      "975",
+      "324",
+      "971"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200191,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "31",
+      "16",
+      "32",
+      "34"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200192,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "32",
+      "31",
+      "34",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200193,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 8, 16, 32, 64, ____",
+    "variante": [
+      "128",
+      "64",
+      "127",
+      "130"
+    ],
+    "raspunsCorect": "128",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200194,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "66",
+      "63",
+      "64",
+      "32"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200195,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 3, 9, 27, 81, ____",
+    "variante": [
+      "246",
+      "242",
+      "81",
+      "243"
+    ],
+    "raspunsCorect": "243",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200196,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "31",
+      "32",
+      "34",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200197,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "486",
+      "162",
+      "485",
+      "489"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200198,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "486",
+      "485",
+      "489",
+      "162"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200199,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "32",
+      "31",
+      "16",
+      "34"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200200,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 10, 20, 40, 80, ____",
+    "variante": [
+      "80",
+      "160",
+      "159",
+      "162"
+    ],
+    "raspunsCorect": "160",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200201,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "971",
+      "324",
+      "972",
+      "975"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200202,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 10, 20, 40, 80, ____",
+    "variante": [
+      "159",
+      "80",
+      "160",
+      "162"
+    ],
+    "raspunsCorect": "160",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200203,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "31",
+      "32",
+      "34",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200204,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "34",
+      "31",
+      "32",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200205,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 9, 27, 81, 243, ____",
+    "variante": [
+      "728",
+      "732",
+      "729",
+      "243"
+    ],
+    "raspunsCorect": "729",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200206,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 15, 45, 135, 405, ____",
+    "variante": [
+      "1218",
+      "1215",
+      "1214",
+      "405"
+    ],
+    "raspunsCorect": "1215",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200207,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "971",
+      "324",
+      "972",
+      "975"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200208,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "31",
+      "34",
+      "32",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200209,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 8, 16, 32, 64, ____",
+    "variante": [
+      "128",
+      "130",
+      "64",
+      "127"
+    ],
+    "raspunsCorect": "128",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200210,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 6, 12, 24, 48, ____",
+    "variante": [
+      "98",
+      "48",
+      "96",
+      "95"
+    ],
+    "raspunsCorect": "96",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200211,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 6, 18, 54, 162, ____",
+    "variante": [
+      "162",
+      "486",
+      "485",
+      "489"
+    ],
+    "raspunsCorect": "486",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200212,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "324",
+      "975",
+      "972",
+      "971"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200213,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 2, 4, 8, 16, 32, ____",
+    "variante": [
+      "32",
+      "66",
+      "64",
+      "63"
+    ],
+    "raspunsCorect": "64",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200214,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 15, 45, 135, 405, ____",
+    "variante": [
+      "1218",
+      "1214",
+      "405",
+      "1215"
+    ],
+    "raspunsCorect": "1215",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200215,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "324",
+      "975",
+      "971",
+      "972"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200216,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 4, 12, 36, 108, 324, ____",
+    "variante": [
+      "975",
+      "324",
+      "971",
+      "972"
+    ],
+    "raspunsCorect": "972",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200217,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 1, 2, 4, 8, 16, ____",
+    "variante": [
+      "32",
+      "31",
+      "34",
+      "16"
+    ],
+    "raspunsCorect": "32",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200218,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 3, 9, 27, 81, 243, ____",
+    "variante": [
+      "243",
+      "728",
+      "732",
+      "729"
+    ],
+    "raspunsCorect": "729",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200219,
+    "categorie": "Psihologic – Raționament numeric (geometrice)",
+    "intrebare": "Completați șirul: 5, 10, 20, 40, 80, ____",
+    "variante": [
+      "80",
+      "162",
+      "160",
+      "159"
+    ],
+    "raspunsCorect": "160",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200220,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: N, P, R, T, V, ____",
+    "variante": [
+      "W",
+      "A",
+      "X",
+      "Y"
+    ],
+    "raspunsCorect": "X",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200221,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: I, K, M, O, Q, ____",
+    "variante": [
+      "S",
+      "V",
+      "T",
+      "R"
+    ],
+    "raspunsCorect": "S",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200222,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "T",
+      "U",
+      "V",
+      "X"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200223,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "P",
+      "L",
+      "M",
+      "N"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200224,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "N",
+      "P",
+      "R",
+      "O"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200225,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: O, Q, S, U, W, ____",
+    "variante": [
+      "B",
+      "Y",
+      "Z",
+      "X"
+    ],
+    "raspunsCorect": "Y",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200226,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: R, T, V, X, Z, ____",
+    "variante": [
+      "E",
+      "C",
+      "B",
+      "A"
+    ],
+    "raspunsCorect": "B",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200227,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: J, L, N, P, R, ____",
+    "variante": [
+      "S",
+      "T",
+      "U",
+      "W"
+    ],
+    "raspunsCorect": "T",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200228,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "M",
+      "P",
+      "L",
+      "N"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200229,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: T, V, X, Z, B, ____",
+    "variante": [
+      "C",
+      "E",
+      "G",
+      "D"
+    ],
+    "raspunsCorect": "D",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200230,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "P",
+      "R",
+      "N",
+      "O"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200231,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "W",
+      "V",
+      "U",
+      "Y"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200232,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: J, L, N, P, R, ____",
+    "variante": [
+      "U",
+      "W",
+      "T",
+      "S"
+    ],
+    "raspunsCorect": "T",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200233,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: M, O, Q, S, U, ____",
+    "variante": [
+      "X",
+      "W",
+      "V",
+      "Z"
+    ],
+    "raspunsCorect": "W",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200234,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: D, F, H, J, L, ____",
+    "variante": [
+      "O",
+      "M",
+      "N",
+      "Q"
+    ],
+    "raspunsCorect": "N",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200235,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: D, F, H, J, L, ____",
+    "variante": [
+      "O",
+      "M",
+      "Q",
+      "N"
+    ],
+    "raspunsCorect": "N",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200236,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "O",
+      "N",
+      "R",
+      "P"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200237,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "H",
+      "F",
+      "D",
+      "E"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200238,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "N",
+      "L",
+      "P",
+      "M"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200239,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "F",
+      "D",
+      "E",
+      "H"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200240,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "T",
+      "V",
+      "X",
+      "U"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200241,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: B, D, F, H, J, ____",
+    "variante": [
+      "L",
+      "O",
+      "K",
+      "M"
+    ],
+    "raspunsCorect": "L",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200242,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: M, O, Q, S, U, ____",
+    "variante": [
+      "V",
+      "X",
+      "W",
+      "Z"
+    ],
+    "raspunsCorect": "W",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200243,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: N, P, R, T, V, ____",
+    "variante": [
+      "W",
+      "X",
+      "A",
+      "Y"
+    ],
+    "raspunsCorect": "X",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200244,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "P",
+      "S",
+      "Q",
+      "O"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200245,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "P",
+      "R",
+      "N",
+      "O"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200246,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "E",
+      "H",
+      "F",
+      "D"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200247,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: R, T, V, X, Z, ____",
+    "variante": [
+      "C",
+      "A",
+      "B",
+      "E"
+    ],
+    "raspunsCorect": "B",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200248,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: I, K, M, O, Q, ____",
+    "variante": [
+      "R",
+      "T",
+      "S",
+      "V"
+    ],
+    "raspunsCorect": "S",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200249,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: G, I, K, M, O, ____",
+    "variante": [
+      "T",
+      "Q",
+      "P",
+      "R"
+    ],
+    "raspunsCorect": "Q",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200250,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: M, O, Q, S, U, ____",
+    "variante": [
+      "W",
+      "Z",
+      "X",
+      "V"
+    ],
+    "raspunsCorect": "W",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200251,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "V",
+      "Y",
+      "W",
+      "U"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200252,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "O",
+      "S",
+      "Q",
+      "P"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200253,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: A, C, E, G, I, ____",
+    "variante": [
+      "N",
+      "L",
+      "K",
+      "J"
+    ],
+    "raspunsCorect": "K",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200254,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: Q, S, U, W, Y, ____",
+    "variante": [
+      "B",
+      "A",
+      "D",
+      "Z"
+    ],
+    "raspunsCorect": "A",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200255,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "Q",
+      "O",
+      "S",
+      "P"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200256,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: I, K, M, O, Q, ____",
+    "variante": [
+      "R",
+      "T",
+      "V",
+      "S"
+    ],
+    "raspunsCorect": "S",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200257,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "Y",
+      "U",
+      "V",
+      "W"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200258,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "C",
+      "D",
+      "F",
+      "B"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200259,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "F",
+      "D",
+      "B",
+      "C"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200260,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "F",
+      "C",
+      "B",
+      "D"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200261,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: P, R, T, V, X, ____",
+    "variante": [
+      "C",
+      "A",
+      "Z",
+      "Y"
+    ],
+    "raspunsCorect": "Z",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200262,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: B, D, F, H, J, ____",
+    "variante": [
+      "M",
+      "K",
+      "O",
+      "L"
+    ],
+    "raspunsCorect": "L",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200263,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: T, V, X, Z, B, ____",
+    "variante": [
+      "C",
+      "G",
+      "D",
+      "E"
+    ],
+    "raspunsCorect": "D",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200264,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: A, C, E, G, I, ____",
+    "variante": [
+      "L",
+      "K",
+      "N",
+      "J"
+    ],
+    "raspunsCorect": "K",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200265,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "P",
+      "O",
+      "R",
+      "N"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200266,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "V",
+      "T",
+      "X",
+      "U"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200267,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "B",
+      "F",
+      "C",
+      "D"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200268,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "M",
+      "N",
+      "P",
+      "L"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200269,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "F",
+      "B",
+      "D",
+      "C"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200270,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "T",
+      "X",
+      "U",
+      "V"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200271,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "E",
+      "F",
+      "D",
+      "H"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200272,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "Q",
+      "S",
+      "P",
+      "O"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200273,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: M, O, Q, S, U, ____",
+    "variante": [
+      "W",
+      "X",
+      "Z",
+      "V"
+    ],
+    "raspunsCorect": "W",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200274,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: E, G, I, K, M, ____",
+    "variante": [
+      "R",
+      "O",
+      "N",
+      "P"
+    ],
+    "raspunsCorect": "O",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200275,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "D",
+      "C",
+      "B",
+      "F"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200276,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "Q",
+      "P",
+      "S",
+      "O"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200277,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "D",
+      "H",
+      "F",
+      "E"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200278,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "T",
+      "V",
+      "X",
+      "U"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200279,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "X",
+      "U",
+      "T",
+      "V"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200280,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: U, W, Y, A, C, ____",
+    "variante": [
+      "H",
+      "E",
+      "F",
+      "D"
+    ],
+    "raspunsCorect": "E",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200281,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: I, K, M, O, Q, ____",
+    "variante": [
+      "V",
+      "R",
+      "S",
+      "T"
+    ],
+    "raspunsCorect": "S",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200282,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "W",
+      "Y",
+      "V",
+      "U"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200283,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: B, D, F, H, J, ____",
+    "variante": [
+      "L",
+      "K",
+      "M",
+      "O"
+    ],
+    "raspunsCorect": "L",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200284,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: F, H, J, L, N, ____",
+    "variante": [
+      "P",
+      "O",
+      "Q",
+      "S"
+    ],
+    "raspunsCorect": "P",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200285,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "U",
+      "W",
+      "V",
+      "Y"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200286,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: S, U, W, Y, A, ____",
+    "variante": [
+      "B",
+      "F",
+      "C",
+      "D"
+    ],
+    "raspunsCorect": "C",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200287,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "L",
+      "P",
+      "N",
+      "M"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200288,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "V",
+      "X",
+      "U",
+      "T"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200289,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: K, M, O, Q, S, ____",
+    "variante": [
+      "T",
+      "U",
+      "X",
+      "V"
+    ],
+    "raspunsCorect": "U",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200290,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: C, E, G, I, K, ____",
+    "variante": [
+      "P",
+      "L",
+      "N",
+      "M"
+    ],
+    "raspunsCorect": "M",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200291,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: A, C, E, G, I, ____",
+    "variante": [
+      "L",
+      "K",
+      "J",
+      "N"
+    ],
+    "raspunsCorect": "K",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200292,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: T, V, X, Z, B, ____",
+    "variante": [
+      "E",
+      "C",
+      "D",
+      "G"
+    ],
+    "raspunsCorect": "D",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200293,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: D, F, H, J, L, ____",
+    "variante": [
+      "O",
+      "Q",
+      "N",
+      "M"
+    ],
+    "raspunsCorect": "N",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200294,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: N, P, R, T, V, ____",
+    "variante": [
+      "X",
+      "Y",
+      "A",
+      "W"
+    ],
+    "raspunsCorect": "X",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200295,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: J, L, N, P, R, ____",
+    "variante": [
+      "W",
+      "S",
+      "T",
+      "U"
+    ],
+    "raspunsCorect": "T",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200296,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: M, O, Q, S, U, ____",
+    "variante": [
+      "X",
+      "V",
+      "W",
+      "Z"
+    ],
+    "raspunsCorect": "W",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200297,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: L, N, P, R, T, ____",
+    "variante": [
+      "U",
+      "Y",
+      "W",
+      "V"
+    ],
+    "raspunsCorect": "V",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200298,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: J, L, N, P, R, ____",
+    "variante": [
+      "U",
+      "S",
+      "T",
+      "W"
+    ],
+    "raspunsCorect": "T",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200299,
+    "categorie": "Psihologic – Abstract (șiruri de litere)",
+    "intrebare": "Completați șirul: A, C, E, G, I, ____",
+    "variante": [
+      "J",
+      "N",
+      "K",
+      "L"
+    ],
+    "raspunsCorect": "K",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200300,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DACDDDCADBCDCBDACDDCBCABAACDBA  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200301,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDCADABADBBBBBADADBBCCAADDCCDA  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200302,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BAAACCDCDDDABCDBDADCBADCCACCCC  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "raspunsCorect": "4",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200303,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BCDCCDABDBDDCABACDBABBBABADACB  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "raspunsCorect": "10",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200304,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: AABCDDBDCCBCACADABBBBBCDAADBBA  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200305,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DDCDCBDCDAACCCADACCCCCCBBBADCB  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "15",
+      "12",
+      "14",
+      "13"
+    ],
+    "raspunsCorect": "13",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200306,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CDDDABCBDCCBBCADBCBCABCBCDCCCC  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "14",
+      "12",
+      "13",
+      "15"
+    ],
+    "raspunsCorect": "13",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200307,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ADBADCDABBBCDDBCBADCBCAADCBBBD  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200308,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DDDDAABCACBAABBCCBADCBAACCDCDB  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200309,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDABBBBABACADCAAAAAADDDACDBBAC  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200310,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDAACAADBBCBCDCBADBDCBAAAADBAA  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "6",
+      "7",
+      "4",
+      "5"
+    ],
+    "raspunsCorect": "5",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200311,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CCDAABACCCDAAAABBCCDCACCBADDDC  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200312,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BABABADDDBDCABDDADDAACCABCADBD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "9",
+      "12",
+      "11"
+    ],
+    "raspunsCorect": "10",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200313,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: AABDDBADCBCCABDDBADDDADDCADAAD  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "raspunsCorect": "5",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200314,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CBDCCABDCDCDAABACCCCAABDBDACBB  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200315,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BCADAADDBDAADDBBBADCDDBCDCCDBB  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "11",
+      "10",
+      "12",
+      "13"
+    ],
+    "raspunsCorect": "11",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200316,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BBBCCBBCACDDCDAAADBAABCBCCBACB  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "11",
+      "10",
+      "8",
+      "9"
+    ],
+    "raspunsCorect": "9",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200317,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDBCADDDCAACBDBCBBCDBABBADADCC  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200318,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CDBABCACDCACBBABDDACBBCCCCBDAA  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "7",
+      "6",
+      "8"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200319,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ACDADCCACDDACBCAABAABBDABDABAD  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200320,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ABCABCDDDDDCADAAAAACACCACDDDAD  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "13",
+      "11",
+      "12",
+      "10"
+    ],
+    "raspunsCorect": "11",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200321,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DCBCCABAAADACBCBDBBBBCBABADACA  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "raspunsCorect": "10",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200322,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CCBBACABCDDCCBCCDBACBBDCCBCDDD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200323,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BACBBCAAAADBACDBCDBCBDADCABBBD  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200324,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CABDBACCBABCDDDAACACCBDDCACDBD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "8",
+      "10",
+      "7",
+      "9"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200325,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ABDBBACBBBBCABDCADDDBBDABABBBA  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200326,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDACABDDDBBDBBCBCDABDDBAABDBAB  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "raspunsCorect": "3",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200327,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ADBADDCADBDDCADBCDBACDCBAAAADB  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "11",
+      "8",
+      "10"
+    ],
+    "raspunsCorect": "9",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200328,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDCCDCCDBDDBCDCCCDBABDBABDCABD  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "raspunsCorect": "3",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200329,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DAACBCAADDCABDDABCBABBACBABACD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200330,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BAAACCCCBBDDACBDAACCACCDDDBCDD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "10",
+      "7",
+      "8"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200331,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ADBBCDCACBCADCABDCCBCBBDBBBCBB  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "raspunsCorect": "9",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200332,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: AAADAADCCDCDBCDBBADDACDBDADCAA  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "raspunsCorect": "4",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200333,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CCBCBCDCCBDDBDCCDCDBBBACBDDBBB  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "11",
+      "10",
+      "12"
+    ],
+    "raspunsCorect": "10",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200334,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DBCDCCADABABCDADCCCCCCADACBBCC  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200335,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ADCDBBCDDAABCBCCCCDCDCDDBBABBC  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200336,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: AAADAADAACBADCBBCDBBBAACCDDCDB  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200337,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: CCDBADCCDCBCAABCCDADDCADCBACBD  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200338,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DDBCADBCCCDBABBCADDCDBCABAABAC  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "7",
+      "8",
+      "9"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200339,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BABADBCDCDCDACABACDADBBCDAABDD  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200340,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DABDDCCBAACDCBCABABDCABCADBAAD  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200341,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDACAACBABDBCCDBADCBCADDCDBBCC  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200342,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDCCCDADBACBCADBDBCCDCAAAABBAB  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "10",
+      "7",
+      "8"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200343,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ADDCACBAABDADACDCACAACABAABDBB  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "14",
+      "12",
+      "13",
+      "11"
+    ],
+    "raspunsCorect": "12",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200344,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: ACDDABBDCBDCCCCDDCBBDCCDDDAACA  Țintă: 'D'  -> Câte apariții?",
+    "variante": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "raspunsCorect": "10",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200345,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BBCACBAADCBBCCBBCCADBACDBDACAD  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "10",
+      "8",
+      "11",
+      "9"
+    ],
+    "raspunsCorect": "9",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200346,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DDABADACACBCBBADDABDCDBBCADADC  Țintă: 'C'  -> Câte apariții?",
+    "variante": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "raspunsCorect": "6",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200347,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: BDBDDBBBACDCAADDCCBCCACBCDBDAB  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "11",
+      "10",
+      "8"
+    ],
+    "raspunsCorect": "9",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200348,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: AAABBCACACDDACBBBCDBADACBACBCA  Țintă: 'B'  -> Câte apariții?",
+    "variante": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "raspunsCorect": "8",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200349,
+    "categorie": "Psihologic – Atenție (numărare rapidă)",
+    "intrebare": "Numărați aparițiile: DCCAACDBDACDABBDAABCCDDBACCCCB  Țintă: 'A'  -> Câte apariții?",
+    "variante": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "raspunsCorect": "7",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200350,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 59. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "136",
+      "130",
+      "134",
+      "132"
+    ],
+    "raspunsCorect": "132",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200351,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 38. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "90",
+      "92",
+      "94",
+      "88"
+    ],
+    "raspunsCorect": "90",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200352,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 94. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "204",
+      "206",
+      "202",
+      "200"
+    ],
+    "raspunsCorect": "202",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200353,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 76. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "168",
+      "166",
+      "170",
+      "164"
+    ],
+    "raspunsCorect": "166",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200354,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 83. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "180",
+      "182",
+      "184",
+      "178"
+    ],
+    "raspunsCorect": "180",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200355,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 87. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "192",
+      "188",
+      "186",
+      "190"
+    ],
+    "raspunsCorect": "188",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200356,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 36. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "90",
+      "86",
+      "88",
+      "84"
+    ],
+    "raspunsCorect": "86",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200357,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 27. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "66",
+      "68",
+      "72",
+      "70"
+    ],
+    "raspunsCorect": "68",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200358,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 65. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "148",
+      "144",
+      "146",
+      "142"
+    ],
+    "raspunsCorect": "144",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200359,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 50. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "112",
+      "118",
+      "116",
+      "114"
+    ],
+    "raspunsCorect": "114",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200360,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 33. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "78",
+      "84",
+      "80",
+      "82"
+    ],
+    "raspunsCorect": "80",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200361,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 50. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "114",
+      "116",
+      "112",
+      "118"
+    ],
+    "raspunsCorect": "114",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200362,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 66. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "144",
+      "150",
+      "146",
+      "148"
+    ],
+    "raspunsCorect": "146",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200363,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 23. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "64",
+      "62",
+      "60",
+      "58"
+    ],
+    "raspunsCorect": "60",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200364,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 88. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "188",
+      "190",
+      "194",
+      "192"
+    ],
+    "raspunsCorect": "190",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200365,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 86. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "190",
+      "188",
+      "186",
+      "184"
+    ],
+    "raspunsCorect": "186",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200366,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 55. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "128",
+      "122",
+      "126",
+      "124"
+    ],
+    "raspunsCorect": "124",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200367,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 27. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "68",
+      "66",
+      "70",
+      "72"
+    ],
+    "raspunsCorect": "68",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200368,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 33. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "80",
+      "82",
+      "78",
+      "84"
+    ],
+    "raspunsCorect": "80",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200369,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 27. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "72",
+      "70",
+      "68",
+      "66"
+    ],
+    "raspunsCorect": "68",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200370,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 14. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "44",
+      "40",
+      "42",
+      "46"
+    ],
+    "raspunsCorect": "42",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200371,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 62. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "142",
+      "138",
+      "140",
+      "136"
+    ],
+    "raspunsCorect": "138",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200372,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 36. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "88",
+      "84",
+      "90",
+      "86"
+    ],
+    "raspunsCorect": "86",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200373,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 88. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "190",
+      "188",
+      "192",
+      "194"
+    ],
+    "raspunsCorect": "190",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200374,
+    "categorie": "Psihologic – Memorie de lucru (transformări)",
+    "intrebare": "Porniți de la 68. Se adună 7 apoi se înmulțește cu 2. Rezultatul este:",
+    "variante": [
+      "150",
+      "152",
+      "154",
+      "148"
+    ],
+    "raspunsCorect": "150",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200375,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Vest",
+      "Nord",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200376,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Sud",
+      "Vest",
+      "Nord"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200377,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Nord",
+      "Vest",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200378,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Nord",
+      "Vest",
+      "Est",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200379,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Vest",
+      "Nord",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200380,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Nord",
+      "Vest",
+      "Est",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200381,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Nord",
+      "Vest",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200382,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Sud",
+      "Vest",
+      "Nord"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200383,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Nord",
+      "Sud",
+      "Vest",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200384,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Nord",
+      "Est",
+      "Vest"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200385,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Vest",
+      "Est",
+      "Nord",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200386,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Sud",
+      "Nord",
+      "Vest"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200387,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Nord",
+      "Vest",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200388,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Vest",
+      "Nord",
+      "Sud",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200389,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Vest",
+      "Sud",
+      "Nord",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200390,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Nord",
+      "Vest",
+      "Sud",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200391,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Vest",
+      "Sud",
+      "Est",
+      "Nord"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200392,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Vest",
+      "Nord",
+      "Est",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200393,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Vest",
+      "Nord",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200394,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Vest",
+      "Nord",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200395,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Nord",
+      "Est",
+      "Vest"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200396,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Nord",
+      "Vest",
+      "Est",
+      "Sud"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200397,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Nord",
+      "Sud",
+      "Vest"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200398,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Est",
+      "Sud",
+      "Nord",
+      "Vest"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  },
+  {
+    "id": 200399,
+    "categorie": "Psihologic – Orientare spațială (direcții)",
+    "intrebare": "Un militar pornește spre nord, virează dreapta (est), merge 2 pași, apoi virează dreapta (sud). În ce direcție este orientat acum?",
+    "variante": [
+      "Sud",
+      "Nord",
+      "Vest",
+      "Est"
+    ],
+    "raspunsCorect": "Sud",
+    "sursa": "Recrutare MApN – selecție: evaluare psihologică (2025). https://www.recrutaremapn.ro/selectie.php"
+  }
+]
